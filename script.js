@@ -11816,7 +11816,7 @@ function updateDrillDown() {
       .attr("class", "grandparent");
 
     grandparent.append("rect")
-      .attr("y", -margin.top - 20)
+      .attr("y", -margin.top - 30)
       .attr("width", width)
       .attr("height", margin.top + 50);
 
