@@ -9738,7 +9738,7 @@ const ROLES = {
 
 var margin = {top: 24, right: 0, bottom: 0, left: 0},
   width = window.innerWidth, //640
-  height = window.innerHeight,
+  height = window.innerHeight * 0.9,
   formatNumber = d3.format(",d"),
   transitioning;
 
@@ -9749,13 +9749,14 @@ var x = d3.scaleLinear()
 var y = d3.scaleLinear()
   .domain([0, height - margin.top - margin.bottom])
   .range([0, height - margin.top - margin.bottom]);
+// t
+var fader = function(color) { return d3.interpolateRgb(color, "#fff")(0.2); };
 
 var color = d3.scaleOrdinal()
-  .range(d3.schemeCategory10
-    .map(function(c) { c = d3.rgb(c); c.opacity = 0.7; return c; }));
-//var color = d3.scaleOrdinal(d3.schemeCategory20.map(fader));
+  .range(d3.schemeCategory20
+    .map(function(c) { c = d3.rgb(c); c.opacity = 1; return c; }));
+color = d3.scaleOrdinal(d3.schemeCategory20.map(fader));
 
-var fader = function(color) { return d3.interpolateRgb(color, "#fff")(0.2); };
 var format = d3.format(",d");
 var treemap;
 var svg, grandparent;
@@ -9787,11 +9788,11 @@ function updateDrillDown() {
     grandparent.append("rect")
       .attr("y", -margin.top)
       .attr("width", width)
-      .attr("height", margin.top);
+      .attr("height", margin.top + 4);
 
     grandparent.append("text")
-      .attr("x", 6)
-      .attr("y", 6 - margin.top)
+      .attr("x", 10)
+      .attr("y", 8 - margin.top)
       .attr("dy", ".75em");
 
     treemap = d3.treemap()
@@ -9805,7 +9806,7 @@ function updateDrillDown() {
     .eachBefore(function(d) { d.id = (d.parent ? d.parent.id + "." : "") + d.data.shortName; })
     .sum((d) => d.size)
     .sort(function(a, b) {
-      console.log('initial root sort a ' + a.value + ' b ' + b.value);
+
       return b.height - a.height || b.value - a.value;
     });
 
@@ -9828,7 +9829,7 @@ function initialize(root) {
 // We also take a snapshot of the original children (_children) to avoid
 // the children being overwritten when when layout is computed.
 function accumulate(d) {
-  console.log('accumulate called ' + d.data.name);
+
   return (d._children = d.children)
     ? d.value = d.children.reduce(function(p, v) { return p + accumulate(v); }, 0) : d.value;
 }
@@ -9932,7 +9933,7 @@ function display(d) {
 
     // Draw child nodes on top of parent nodes.
     svg.selectAll(".depth").sort(function(a, b) {
-      console.log('.depth sort a ' + a.depth + ' b ' + b.depth);
+
       return a.depth - b.depth; });
 
     // Fade-in entering text.
@@ -9957,12 +9958,19 @@ function display(d) {
 
 function text(text) {
   text.selectAll("tspan")
-    .attr("x", function(d) { return x(d.x0) + 6; })
-  text.attr("x", function(d) { return x(d.x0) + 6; })
-    .attr("y", function(d) { return y(d.y0) + 3; })
+    .attr("x", d => x(d.x0) + 10);
+  text.attr("x", d => x(d.x0) + 10)
+    .style('font-size', d => {
+      var w = (x(d.x1) - x(d.x0)) / d.data.name.length;
+      return w + 'px'
+    })
+    .attr("y", d => {
+
+      return (y(d.y0) + (d.y1 - d.y0) / 2) > width / 2 ? y(d.y0) + 10 : (y(d.y0) + (d.y1 - d.y0) / 2)
+    })
     .style("opacity", function(d) {
       var w = x(d.x1) - x(d.x0);
-      console.log("text opacity setting textlength " + this.getComputedTextLength() + " d size " + w);
+
       return this.getComputedTextLength() < w - 6 ? 1 : 1; });
 }
 
@@ -9973,8 +9981,8 @@ function text2(text) {
     .attr("y", function(d) { return y(d.y1) - 6; })
     .style("opacity", function(d) {
       var w = x(d.x1) - x(d.x0);
-      console.log("text2 opacity setting textlength " + this.getComputedTextLength() + " d size " + w);
-      return this.getComputedTextLength() < w - 6 ? 1 : 0;
+
+      return this.getComputedTextLength() < w - 6 ? 0 : 0;
     });
 }
 
@@ -9983,16 +9991,16 @@ function rect(rect) {
     .attr("y", function(d) { return y(d.y0); })
     .attr("width", function(d) {
       var w = x(d.x1) - x(d.x0);
-      console.log('id ' + d.id +' rect width ' + w);
+
       return w;
     })
     .attr("height", function(d) {
       var h = y(d.y1) - y(d.y0);
-      console.log('id ' + d.id +' rect height ' + h);
+
       return h;
     });
 }
 
 function name(d) {
-  return d.parent ? name(d.parent) + " / " + d.data.shortName + " (" + formatNumber(d.value) + ")" : d.data.shortName + " (" + formatNumber(d.value) + ")";
+  return d.parent ? '⬆' + name(d.parent) + " / " + d.data.shortName + " (" + formatNumber(d.value) + ")" : d.data.shortName + " (" + formatNumber(d.value) + ")";
 }

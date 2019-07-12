@@ -6,11 +6,22 @@
 </head>
 <body>
 <style>
-    body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
-        Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    /*body {*/
+    /*    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,*/
+    /*    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
+    /*}*/
+
+    * {
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     }
+
     body { margin:0;position:fixed;top:0;right:0;bottom:0;left:0; }
+
+    #chart {
+        text-align: center;
+        font-weight: bold;
+        font-size: 2rem;
+    }
 
     text {
         pointer-events: none;
@@ -24,21 +35,25 @@
     }
     rect.parent,
     .grandparent rect {
-        stroke-width: 2px;
+        stroke-width: 5px;
     }
     .grandparent rect {
-        fill: orange;
+        fill: #65c7eb;
     }
     .grandparent:hover rect {
-        fill: #ee9700;
+        fill: #68daff;
     }
+    .grandparent text {
+        fill: white;
+    }
+
     .children rect.parent,
     .grandparent rect {
         cursor: pointer;
     }
     .children rect.parent {
         fill: #bbb;
-        fill-opacity: 0.5;
+        fill-opacity: 0.7;
     }
     .children:hover rect.child {
         fill: #bbb;
