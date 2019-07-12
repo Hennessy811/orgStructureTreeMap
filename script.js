@@ -11995,6 +11995,7 @@ function text(text) {
       var w = (x(d.x1) - x(d.x0)) / d.data.name.length < 80 ? (x(d.x1) - x(d.x0)) / d.data.name.length : 80;
       return w + 'px'
     })
+    .style('font-weight', 'bold')
     .attr("y", d => {
 
       return (y(d.y0) + (d.y1 - d.y0) / 2) > width / 2 ? y(d.y0) + 10 : (y(d.y0) + (d.y1 - d.y0) / 2)
