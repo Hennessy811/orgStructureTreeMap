@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<style>
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+        Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    }
+    body { margin:0;position:fixed;top:0;right:0;bottom:0;left:0; }
+
+    text {
+        pointer-events: none;
+    }
+    .grandparent text {
+        font-weight: bold;
+    }
+    rect {
+        fill: none;
+        stroke: #fff;
+    }
+    rect.parent,
+    .grandparent rect {
+        stroke-width: 2px;
+    }
+    .grandparent rect {
+        fill: orange;
+    }
+    .grandparent:hover rect {
+        fill: #ee9700;
+    }
+    .children rect.parent,
+    .grandparent rect {
+        cursor: pointer;
+    }
+    .children rect.parent {
+        fill: #bbb;
+        fill-opacity: 0.5;
+    }
+    .children:hover rect.child {
+        fill: #bbb;
+    }
+
+
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.min.js"></script>
+<div class="wrap">
+    <p id="chart">
+        Организационная структура трайба "Эквайринг. Продукты и процессы"
+    </p>
+</div>
+<div id="domainDrillDown"></div>
+<script src="script.js"></script>
+</body>
+</html>
