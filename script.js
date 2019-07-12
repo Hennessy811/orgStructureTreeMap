@@ -9786,13 +9786,14 @@ function updateDrillDown() {
       .attr("class", "grandparent");
 
     grandparent.append("rect")
-      .attr("y", -margin.top)
+      .attr("y", -margin.top - 20)
       .attr("width", width)
-      .attr("height", margin.top + 4);
+      .attr("height", margin.top + 50);
 
     grandparent.append("text")
       .attr("x", 10)
-      .attr("y", 8 - margin.top)
+      .attr("y", 12 - margin.top)
+      .style('font-size', '2rem')
       .attr("dy", ".75em");
 
     treemap = d3.treemap()
@@ -9961,7 +9962,7 @@ function text(text) {
     .attr("x", d => x(d.x0) + 10);
   text.attr("x", d => x(d.x0) + 10)
     .style('font-size', d => {
-      var w = (x(d.x1) - x(d.x0)) / d.data.name.length;
+      var w = (x(d.x1) - x(d.x0)) / d.data.name.length < 100 ? (x(d.x1) - x(d.x0)) / d.data.name.length : 100;
       return w + 'px'
     })
     .attr("y", d => {
@@ -10002,5 +10003,5 @@ function rect(rect) {
 }
 
 function name(d) {
-  return d.parent ? '⬆' + name(d.parent) + " / " + d.data.shortName + " (" + formatNumber(d.value) + ")" : d.data.shortName + " (" + formatNumber(d.value) + ")";
+  return d.parent ? '⬆ ' + name(d.parent) + " / " + d.data.shortName + " (" + formatNumber(d.value) + ")" + ' ⬆' : d.data.shortName + " (" + formatNumber(d.value) + ")";
 }
