@@ -26,18 +26,16 @@
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-  var margin = {top: 30, right: 20, bottom: 30, left: 20},
-    width = 960,
-    barHeight = 20,
-    barWidth = (width - margin.left - margin.right) * 0.8;
+  var width = 960,
+    height = 1200
 
-  var i = 0,
-    duration = 400,
-    root;
+  var format = d3.format(",d");
 
   var diagonal = d3.linkHorizontal()
     .x(function(d) { return d.y; })
     .y(function(d) { return d.x; });
+
+  var color = d3.scaleOrdinal(d3.quantize(d3.interpolateRainbow, data.children.length + 1));
 
   var svg = d3.select("body").append("svg")
     .attr("width", width) // + margin.left + margin.right)
@@ -162,10 +160,6 @@
       d._children = null;
     }
     update(d);
-  }
-
-  function color(d) {
-    return d._children ? "#3182bd" : d.children ? "#c6dbef" : "#fd8d3c";
   }
 
 </script>
