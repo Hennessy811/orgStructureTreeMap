@@ -1,0 +1,5243 @@
+[
+  {
+    "name": "Digital Lab",
+    "count": 59,
+    "children": [
+      {
+        "name": "Debit_Cards&Acquiring_Methodology",
+        "count": 1,
+        "children": [
+          {
+            "name": "Zula Pacocha"
+          }
+        ]
+      },
+      {
+        "name": "Delivery Leads",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Digital_Products&Expertise_Lab",
+        "count": 9,
+        "children": [
+          {
+            "name": "Jesse Schmidt"
+          },
+          {
+            "name": "Liliane Luettgen"
+          },
+          {
+            "name": "Zoey Doyle I"
+          },
+          {
+            "name": "Rodolfo Schulist"
+          },
+          {
+            "name": "Annamarie Kessler"
+          },
+          {
+            "name": "Roel Wehner I"
+          },
+          {
+            "name": "Jett Parker"
+          },
+          {
+            "name": "Dr. Virginie Runte"
+          },
+          {
+            "name": "Ms. Casper Roob"
+          }
+        ]
+      },
+      {
+        "name": "Legacy Процессинг ядро",
+        "count": 2,
+        "children": [
+          {
+            "name": "Ilene Stanton"
+          },
+          {
+            "name": "Brooks Strosin"
+          }
+        ]
+      },
+      {
+        "name": "PMO-ДИТ FrontEnd",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "АС Сервисы в ФС/ФП Пластиковые карты",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Неразмеченные Рокотян",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "ППРБ. Процессинг",
+        "count": 1,
+        "children": [
+          {
+            "name": "Zola Hodkiewicz"
+          }
+        ]
+      },
+      {
+        "name": "Развитие бэкофисных депозитных продукто",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Сервисы для ЮЛ",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 46,
+        "children": [
+          {
+            "name": "Sophie Boehm"
+          },
+          {
+            "name": "Merritt Schaden"
+          },
+          {
+            "name": "Tess Ryan I"
+          },
+          {
+            "name": "Raoul Bayer"
+          },
+          {
+            "name": "Darion Carroll III"
+          },
+          {
+            "name": "Clementine Stroman DVM"
+          },
+          {
+            "name": "Amina Gorczany"
+          },
+          {
+            "name": "Henri Dietrich"
+          },
+          {
+            "name": "Erica Conn"
+          },
+          {
+            "name": "Mr. Gilda Funk"
+          },
+          {
+            "name": "Wallace Bartell"
+          },
+          {
+            "name": "Piper Hudson"
+          },
+          {
+            "name": "Rosie Koch"
+          },
+          {
+            "name": "Edyth Hyatt"
+          },
+          {
+            "name": "Ms. Velma Fay"
+          },
+          {
+            "name": "Rosemarie Mills"
+          },
+          {
+            "name": "Onie Kassulke"
+          },
+          {
+            "name": "Zola Gleason"
+          },
+          {
+            "name": "Alexandro Kiehn III"
+          },
+          {
+            "name": "Granville Nienow"
+          },
+          {
+            "name": "Anika Dare"
+          },
+          {
+            "name": "Walton Marvin"
+          },
+          {
+            "name": "Lorenzo Corkery"
+          },
+          {
+            "name": "Hilton Stroman"
+          },
+          {
+            "name": "Aniya D'Amore II"
+          },
+          {
+            "name": "Emory Moen"
+          },
+          {
+            "name": "Meagan Windler IV"
+          },
+          {
+            "name": "Vena Mayer IV"
+          },
+          {
+            "name": "Tad Schiller"
+          },
+          {
+            "name": "Elda Jenkins"
+          },
+          {
+            "name": "Javonte Rodriguez"
+          },
+          {
+            "name": "Jazmyne Reilly"
+          },
+          {
+            "name": "Citlalli Feil"
+          },
+          {
+            "name": "Brett Mayert"
+          },
+          {
+            "name": "Beatrice Labadie"
+          },
+          {
+            "name": "Jazmyne Douglas"
+          },
+          {
+            "name": "Miss Margarette Wehner"
+          },
+          {
+            "name": "Daphne Romaguera"
+          },
+          {
+            "name": "Presley Gerhold I"
+          },
+          {
+            "name": "Dessie Volkman"
+          },
+          {
+            "name": "Kameron Torp"
+          },
+          {
+            "name": "Bernie Bailey DVM"
+          },
+          {
+            "name": "Ms. Cooper Conn"
+          },
+          {
+            "name": "Kameron Emmerich"
+          },
+          {
+            "name": "Adelbert Jones IV"
+          },
+          {
+            "name": "Rebekah Vandervort"
+          }
+        ]
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 0,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "GR & Транспорт",
+    "count": 6,
+    "children": [
+      {
+        "name": "Debit_Cards&Acquiring_Methodology",
+        "count": 1,
+        "children": [
+          {
+            "name": "Alize Steuber"
+          }
+        ]
+      },
+      {
+        "name": "GR_and_transport_solutions",
+        "count": 5,
+        "children": [
+          {
+            "name": "Vance Brekke DDS"
+          },
+          {
+            "name": "Ms. Jayda Kihn"
+          },
+          {
+            "name": "Ethyl VonRueden"
+          },
+          {
+            "name": "Cathrine Howell"
+          },
+          {
+            "name": "Tod Kuvalis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IT Back",
+    "count": 341,
+    "children": [
+      {
+        "name": "Legacy Процессинг Back-Office",
+        "count": 43,
+        "children": [
+          {
+            "name": "Marjorie Daugherty"
+          },
+          {
+            "name": "Mackenzie Crooks"
+          },
+          {
+            "name": "Braden Stehr"
+          },
+          {
+            "name": "Tavares Kunze"
+          },
+          {
+            "name": "Miss Philip Russel"
+          },
+          {
+            "name": "Ms. Eunice Feeney"
+          },
+          {
+            "name": "Amalia Hagenes"
+          },
+          {
+            "name": "Sheridan Raynor"
+          },
+          {
+            "name": "Leola Lakin"
+          },
+          {
+            "name": "Jonas Conroy"
+          },
+          {
+            "name": "Chloe Raynor II"
+          },
+          {
+            "name": "Charlene Smith"
+          },
+          {
+            "name": "Afton Hilll"
+          },
+          {
+            "name": "Fern Ziemann"
+          },
+          {
+            "name": "Brannon Abshire"
+          },
+          {
+            "name": "Erwin Lang"
+          },
+          {
+            "name": "Sonya Huel"
+          },
+          {
+            "name": "Ms. Abelardo Stracke"
+          },
+          {
+            "name": "Emmanuelle Morissette"
+          },
+          {
+            "name": "Jonathon Rohan"
+          },
+          {
+            "name": "Casper Koepp"
+          },
+          {
+            "name": "Shania Hickle V"
+          },
+          {
+            "name": "Palma Yost"
+          },
+          {
+            "name": "Darrel Heller"
+          },
+          {
+            "name": "Christop Altenwerth"
+          },
+          {
+            "name": "Lily Dietrich"
+          },
+          {
+            "name": "Edgardo Stark"
+          },
+          {
+            "name": "Kirk Romaguera"
+          },
+          {
+            "name": "Edd Rowe"
+          },
+          {
+            "name": "Arlo Morar"
+          },
+          {
+            "name": "Paris Padberg"
+          },
+          {
+            "name": "Darron Gleichner III"
+          },
+          {
+            "name": "Sidney Hodkiewicz"
+          },
+          {
+            "name": "Dr. Loraine McClure"
+          },
+          {
+            "name": "Aaliyah Wisoky"
+          },
+          {
+            "name": "Bryana Mayer"
+          },
+          {
+            "name": "Nadia Blanda"
+          },
+          {
+            "name": "Christine Marvin"
+          },
+          {
+            "name": "Mohammed Morissette"
+          },
+          {
+            "name": "Audie VonRueden"
+          },
+          {
+            "name": "Reyna Lemke DVM"
+          },
+          {
+            "name": "Erin Herman"
+          },
+          {
+            "name": "Sylvan Leannon"
+          }
+        ]
+      },
+      {
+        "name": "Legacy Процессинг хаб",
+        "count": 90,
+        "children": [
+          {
+            "name": "Carol Hettinger III"
+          },
+          {
+            "name": "Kenny Wisoky"
+          },
+          {
+            "name": "Jordane Gerhold"
+          },
+          {
+            "name": "Karley Koelpin"
+          },
+          {
+            "name": "Danielle Kovacek"
+          },
+          {
+            "name": "German Wilderman"
+          },
+          {
+            "name": "Viva Schiller"
+          },
+          {
+            "name": "Carmella Jacobi"
+          },
+          {
+            "name": "Shannon Rohan"
+          },
+          {
+            "name": "Ms. Hallie Waters"
+          },
+          {
+            "name": "Haskell Conroy MD"
+          },
+          {
+            "name": "Kristofer Corkery"
+          },
+          {
+            "name": "Elena Rempel"
+          },
+          {
+            "name": "Kendra Weber PhD"
+          },
+          {
+            "name": "Joany Mosciski"
+          },
+          {
+            "name": "Brooke Schumm"
+          },
+          {
+            "name": "Kamron Prohaska"
+          },
+          {
+            "name": "Roderick Ledner"
+          },
+          {
+            "name": "Ida Botsford"
+          },
+          {
+            "name": "Viva Mann"
+          },
+          {
+            "name": "Mr. Ellie Cremin"
+          },
+          {
+            "name": "Lottie Hand"
+          },
+          {
+            "name": "Preston Corwin MD"
+          },
+          {
+            "name": "Gustave Bayer"
+          },
+          {
+            "name": "Leta Blick"
+          },
+          {
+            "name": "Brady Schiller"
+          },
+          {
+            "name": "Ora Champlin"
+          },
+          {
+            "name": "Francisco Olson"
+          },
+          {
+            "name": "Alexys Lockman"
+          },
+          {
+            "name": "Missouri Goodwin"
+          },
+          {
+            "name": "Anabel Greenfelder"
+          },
+          {
+            "name": "Tate Schroeder"
+          },
+          {
+            "name": "Kaycee Jones"
+          },
+          {
+            "name": "Bud Abbott"
+          },
+          {
+            "name": "Wyman Hand"
+          },
+          {
+            "name": "Brendon Jones"
+          },
+          {
+            "name": "Destiny Klocko"
+          },
+          {
+            "name": "Trent Cassin"
+          },
+          {
+            "name": "Ophelia Simonis"
+          },
+          {
+            "name": "Susan Kerluke"
+          },
+          {
+            "name": "Kariane Breitenberg"
+          },
+          {
+            "name": "Toney Jakubowski"
+          },
+          {
+            "name": "Kathryn Swaniawski"
+          },
+          {
+            "name": "Alberta Lakin"
+          },
+          {
+            "name": "Jose Hessel"
+          },
+          {
+            "name": "Maegan Stanton"
+          },
+          {
+            "name": "Dr. Jaycee Klocko"
+          },
+          {
+            "name": "Jasmin Zieme"
+          },
+          {
+            "name": "Meaghan Kling"
+          },
+          {
+            "name": "Selmer Reichel"
+          },
+          {
+            "name": "Micheal Cruickshank"
+          },
+          {
+            "name": "Bernhard Runolfsson"
+          },
+          {
+            "name": "Elissa Adams"
+          },
+          {
+            "name": "Lou Schroeder Jr."
+          },
+          {
+            "name": "Gardner Skiles"
+          },
+          {
+            "name": "Antone Blick"
+          },
+          {
+            "name": "Levi Hane"
+          },
+          {
+            "name": "Trudie Schoen DDS"
+          },
+          {
+            "name": "Friedrich Abshire"
+          },
+          {
+            "name": "Garnett Fahey"
+          },
+          {
+            "name": "Camryn Keebler Jr."
+          },
+          {
+            "name": "Ezra Christiansen"
+          },
+          {
+            "name": "Silas Bahringer"
+          },
+          {
+            "name": "Madalyn Reynolds Sr."
+          },
+          {
+            "name": "Desiree Russel"
+          },
+          {
+            "name": "Rhiannon O'Conner"
+          },
+          {
+            "name": "Alta Pfeffer"
+          },
+          {
+            "name": "Vern Lockman"
+          },
+          {
+            "name": "D'angelo Sporer"
+          },
+          {
+            "name": "Mohamed Bergnaum"
+          },
+          {
+            "name": "Terrill Wilkinson"
+          },
+          {
+            "name": "Margaretta O'Keefe"
+          },
+          {
+            "name": "Miss Mabel Feeney"
+          },
+          {
+            "name": "Angeline Schulist"
+          },
+          {
+            "name": "Taya Nitzsche"
+          },
+          {
+            "name": "Kyle Turcotte"
+          },
+          {
+            "name": "Gene Bogan"
+          },
+          {
+            "name": "Mrs. Jake Nader"
+          },
+          {
+            "name": "Autumn Powlowski"
+          },
+          {
+            "name": "Mathias Flatley"
+          },
+          {
+            "name": "Daphnee Boehm"
+          },
+          {
+            "name": "Vivien Batz"
+          },
+          {
+            "name": "Duane Walter"
+          },
+          {
+            "name": "Wilfrid Kertzmann"
+          },
+          {
+            "name": "Susanna Kulas"
+          },
+          {
+            "name": "Alysson Dibbert"
+          },
+          {
+            "name": "Freeman Swaniawski"
+          },
+          {
+            "name": "Larissa Tillman"
+          },
+          {
+            "name": "Francisca Koelpin"
+          },
+          {
+            "name": "Mrs. Sydnee Lakin"
+          }
+        ]
+      },
+      {
+        "name": "Legacy Процессинг ядро",
+        "count": 111,
+        "children": [
+          {
+            "name": "Ed Ruecker"
+          },
+          {
+            "name": "Angel Grant"
+          },
+          {
+            "name": "Ava Gleason"
+          },
+          {
+            "name": "Lue Moore"
+          },
+          {
+            "name": "Davonte Muller"
+          },
+          {
+            "name": "Toney Grant"
+          },
+          {
+            "name": "Demarco Wehner"
+          },
+          {
+            "name": "Loy Mraz"
+          },
+          {
+            "name": "Mrs. Junior Halvorson"
+          },
+          {
+            "name": "Dayne Torphy"
+          },
+          {
+            "name": "Liam Lebsack"
+          },
+          {
+            "name": "Dr. Ward Carter"
+          },
+          {
+            "name": "Josh Kessler"
+          },
+          {
+            "name": "Caden Russel"
+          },
+          {
+            "name": "Isidro Kilback"
+          },
+          {
+            "name": "Cassandra Lubowitz"
+          },
+          {
+            "name": "Gisselle Sipes"
+          },
+          {
+            "name": "Stephen Ward"
+          },
+          {
+            "name": "Adrienne Tremblay"
+          },
+          {
+            "name": "Karlie Skiles"
+          },
+          {
+            "name": "Chester Gleason"
+          },
+          {
+            "name": "Aniya Vandervort"
+          },
+          {
+            "name": "Harold Johnson"
+          },
+          {
+            "name": "Joany Fahey"
+          },
+          {
+            "name": "Lorine Kihn"
+          },
+          {
+            "name": "Mrs. Hyman Bashirian"
+          },
+          {
+            "name": "Mrs. Pamela O'Reilly"
+          },
+          {
+            "name": "Ahmed Bosco"
+          },
+          {
+            "name": "Thelma Gorczany"
+          },
+          {
+            "name": "Irving Kuvalis"
+          },
+          {
+            "name": "Vivian Moore"
+          },
+          {
+            "name": "Jedidiah Braun"
+          },
+          {
+            "name": "Mr. Sophia Williamson"
+          },
+          {
+            "name": "Cooper Bernier"
+          },
+          {
+            "name": "Maci McClure"
+          },
+          {
+            "name": "Alexzander Bogan"
+          },
+          {
+            "name": "Ms. Amara Mueller"
+          },
+          {
+            "name": "Natasha Jacobson"
+          },
+          {
+            "name": "Jean Wiza"
+          },
+          {
+            "name": "Raegan Waelchi"
+          },
+          {
+            "name": "Gregorio Zieme"
+          },
+          {
+            "name": "Emanuel Lubowitz"
+          },
+          {
+            "name": "Moses Sawayn"
+          },
+          {
+            "name": "Cyril Berge"
+          },
+          {
+            "name": "Aida Dooley"
+          },
+          {
+            "name": "Mr. Oran Fay"
+          },
+          {
+            "name": "Carol Dicki"
+          },
+          {
+            "name": "Jazmyne Deckow"
+          },
+          {
+            "name": "Genevieve Shields"
+          },
+          {
+            "name": "Craig Pfannerstill"
+          },
+          {
+            "name": "Thelma Haag"
+          },
+          {
+            "name": "Angela Emmerich"
+          },
+          {
+            "name": "Wade Flatley"
+          },
+          {
+            "name": "Kiarra Bahringer"
+          },
+          {
+            "name": "Imogene Ankunding"
+          },
+          {
+            "name": "Elda Bechtelar"
+          },
+          {
+            "name": "Agnes Greenfelder"
+          },
+          {
+            "name": "Aiyana Sauer"
+          },
+          {
+            "name": "Zechariah Gottlieb"
+          },
+          {
+            "name": "Hollis Altenwerth II"
+          },
+          {
+            "name": "Geovanny Rowe"
+          },
+          {
+            "name": "Sasha Fahey"
+          },
+          {
+            "name": "Jeanette Graham"
+          },
+          {
+            "name": "Mr. Colton Reichert"
+          },
+          {
+            "name": "Carmen Durgan II"
+          },
+          {
+            "name": "Jesus Wiza"
+          },
+          {
+            "name": "Mr. Percival Maggio"
+          },
+          {
+            "name": "Verner Pfeffer"
+          },
+          {
+            "name": "Preston Schuppe"
+          },
+          {
+            "name": "Gaylord Heidenreich"
+          },
+          {
+            "name": "Emiliano Schumm V"
+          },
+          {
+            "name": "Kiley Conn"
+          },
+          {
+            "name": "Ms. Clarissa Bogan"
+          },
+          {
+            "name": "Brenden Nitzsche"
+          },
+          {
+            "name": "Dr. Modesta Kerluke"
+          },
+          {
+            "name": "Malika Schamberger"
+          },
+          {
+            "name": "Mr. Elouise Erdman"
+          },
+          {
+            "name": "Estelle Feest"
+          },
+          {
+            "name": "Ms. Annabell Schroeder"
+          },
+          {
+            "name": "Orpha Bartell"
+          },
+          {
+            "name": "Damaris Harris"
+          },
+          {
+            "name": "Jamar Mueller DDS"
+          },
+          {
+            "name": "Ubaldo O'Keefe"
+          },
+          {
+            "name": "Aimee Walsh"
+          },
+          {
+            "name": "Vella Mertz"
+          },
+          {
+            "name": "Nyah Moen"
+          },
+          {
+            "name": "Christop Lockman"
+          },
+          {
+            "name": "Dr. Joel Runte"
+          },
+          {
+            "name": "Fabian Boehm"
+          },
+          {
+            "name": "Murphy Schumm"
+          },
+          {
+            "name": "Werner Moore IV"
+          },
+          {
+            "name": "Michele Wyman"
+          },
+          {
+            "name": "Mallie Kozey"
+          },
+          {
+            "name": "Dale Roberts I"
+          },
+          {
+            "name": "Shakira Rodriguez"
+          },
+          {
+            "name": "Mr. Robbie Schamberger"
+          },
+          {
+            "name": "Urban Jenkins"
+          },
+          {
+            "name": "Aron Hickle II"
+          },
+          {
+            "name": "Miss Eugene Frami"
+          },
+          {
+            "name": "Demarcus Tremblay"
+          },
+          {
+            "name": "Dr. Norberto Balistreri"
+          },
+          {
+            "name": "Annette Rodriguez"
+          },
+          {
+            "name": "Nels Lueilwitz"
+          },
+          {
+            "name": "Miss Thalia Kuhic"
+          },
+          {
+            "name": "Darrin Boyer"
+          },
+          {
+            "name": "Nora Greenfelder"
+          },
+          {
+            "name": "Randy Mayer"
+          },
+          {
+            "name": "Annabell Prohaska"
+          },
+          {
+            "name": "Earnestine Langosh I"
+          },
+          {
+            "name": "Elwin Hahn"
+          },
+          {
+            "name": "Lourdes Johnston"
+          }
+        ]
+      },
+      {
+        "name": "PMO-Processing",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "POS",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Администрирование тестовых сред",
+        "count": 22,
+        "children": [
+          {
+            "name": "Ariane Dickinson"
+          },
+          {
+            "name": "Gladys Feeney"
+          },
+          {
+            "name": "Vivian Beatty"
+          },
+          {
+            "name": "Twila Russel"
+          },
+          {
+            "name": "Dessie Mills"
+          },
+          {
+            "name": "Alvina Kshlerin"
+          },
+          {
+            "name": "Malika Ledner"
+          },
+          {
+            "name": "Ada Feeney"
+          },
+          {
+            "name": "Annie VonRueden"
+          },
+          {
+            "name": "Laverne Wolf"
+          },
+          {
+            "name": "Leonora Crona"
+          },
+          {
+            "name": "Maximo Hane"
+          },
+          {
+            "name": "Leonie Harvey"
+          },
+          {
+            "name": "Agnes Cremin Sr."
+          },
+          {
+            "name": "Aliza Grady"
+          },
+          {
+            "name": "Mrs. Brendon West"
+          },
+          {
+            "name": "Clay Schinner"
+          },
+          {
+            "name": "Mrs. Leda Gutkowski"
+          },
+          {
+            "name": "Zella Shanahan"
+          },
+          {
+            "name": "Mrs. Veda Schulist"
+          },
+          {
+            "name": "Mckenna Shields"
+          },
+          {
+            "name": "Jarrell Quitzon DDS"
+          }
+        ]
+      },
+      {
+        "name": "Дежурная смена CS",
+        "count": 20,
+        "children": [
+          {
+            "name": "Melisa Hoppe"
+          },
+          {
+            "name": "Zella Krajcik III"
+          },
+          {
+            "name": "Shaun Lebsack"
+          },
+          {
+            "name": "Miss Josue Wisoky"
+          },
+          {
+            "name": "Luciano Kuphal"
+          },
+          {
+            "name": "Louvenia Wuckert DDS"
+          },
+          {
+            "name": "Ola Ratke"
+          },
+          {
+            "name": "Heidi Dickinson DVM"
+          },
+          {
+            "name": "Hardy Howe"
+          },
+          {
+            "name": "Abdul Cole"
+          },
+          {
+            "name": "River Champlin"
+          },
+          {
+            "name": "Ms. Zelda Robel"
+          },
+          {
+            "name": "Eliezer King"
+          },
+          {
+            "name": "Vaughn Cummerata"
+          },
+          {
+            "name": "Nolan Bechtelar"
+          },
+          {
+            "name": "Carmella Green"
+          },
+          {
+            "name": "Raven Klocko"
+          },
+          {
+            "name": "Zetta Considine"
+          },
+          {
+            "name": "Jakayla Ryan"
+          },
+          {
+            "name": "Mabelle Bernhard"
+          }
+        ]
+      },
+      {
+        "name": "Нагрузочное тестирование",
+        "count": 15,
+        "children": [
+          {
+            "name": "Sydney Moen"
+          },
+          {
+            "name": "Larissa Herman"
+          },
+          {
+            "name": "Pauline Grant"
+          },
+          {
+            "name": "Johnpaul Sauer"
+          },
+          {
+            "name": "Freda Green"
+          },
+          {
+            "name": "Pearline Zieme"
+          },
+          {
+            "name": "Rosalia Sipes"
+          },
+          {
+            "name": "Verner Romaguera"
+          },
+          {
+            "name": "Mary Schuppe"
+          },
+          {
+            "name": "Sanford Jacobs"
+          },
+          {
+            "name": "Shakira Boyer"
+          },
+          {
+            "name": "Sarina Sipes"
+          },
+          {
+            "name": "Anna Kohler"
+          },
+          {
+            "name": "Florida Fay"
+          },
+          {
+            "name": "Enrique Hackett V"
+          }
+        ]
+      },
+      {
+        "name": "ППРБ. Процессинг",
+        "count": 12,
+        "children": [
+          {
+            "name": "Walton Luettgen"
+          },
+          {
+            "name": "Ryann McLaughlin"
+          },
+          {
+            "name": "Camden Langosh"
+          },
+          {
+            "name": "Leonardo Towne"
+          },
+          {
+            "name": "Carey Hansen"
+          },
+          {
+            "name": "Oleta Hegmann Sr."
+          },
+          {
+            "name": "Faustino Langosh"
+          },
+          {
+            "name": "Joan Dibbert"
+          },
+          {
+            "name": "Pinkie Douglas DVM"
+          },
+          {
+            "name": "Tiffany Smith"
+          },
+          {
+            "name": "Modesto Sauer"
+          },
+          {
+            "name": "Letitia Hagenes"
+          }
+        ]
+      },
+      {
+        "name": "ППРБ.Эквайринг/ЗП",
+        "count": 5,
+        "children": [
+          {
+            "name": "Desmond Feeney DVM"
+          },
+          {
+            "name": "Alphonso Becker"
+          },
+          {
+            "name": "Mrs. Kirsten Williamson"
+          },
+          {
+            "name": "Aurelia Kilback"
+          },
+          {
+            "name": "Lucy Kilback MD"
+          }
+        ]
+      },
+      {
+        "name": "Штаб_Соколов Д.Ю.",
+        "count": 14,
+        "children": [
+          {
+            "name": "Alphonso Jacobs IV"
+          },
+          {
+            "name": "Johnson Jast"
+          },
+          {
+            "name": "Frida Jakubowski"
+          },
+          {
+            "name": "Joanie Sauer II"
+          },
+          {
+            "name": "Euna O'Kon"
+          },
+          {
+            "name": "Mrs. Daisha Maggio"
+          },
+          {
+            "name": "Eldred Rolfson"
+          },
+          {
+            "name": "Lavada Legros"
+          },
+          {
+            "name": "Carley Thompson"
+          },
+          {
+            "name": "Geraldine Kuvalis"
+          },
+          {
+            "name": "Mittie O'Hara"
+          },
+          {
+            "name": "Montana Kuhic DVM"
+          },
+          {
+            "name": "Ms. Giles Carter"
+          },
+          {
+            "name": "Clifford O'Reilly"
+          }
+        ]
+      },
+      {
+        "name": "Эквайринг и банковские карты (Соколов)",
+        "count": 9,
+        "children": [
+          {
+            "name": "Erik Corkery"
+          },
+          {
+            "name": "Brody Hodkiewicz"
+          },
+          {
+            "name": "Dameon Toy"
+          },
+          {
+            "name": "Dr. Earnestine Will"
+          },
+          {
+            "name": "Edd Kiehn DVM"
+          },
+          {
+            "name": "Jamison Russel"
+          },
+          {
+            "name": "Domingo Rohan"
+          },
+          {
+            "name": "Delaney Ullrich"
+          },
+          {
+            "name": "Dr. Lindsey Osinski"
+          }
+        ]
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 0,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "IT Front",
+    "count": 57,
+    "children": [
+      {
+        "name": "PMO-РБ",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "POS",
+        "count": 1,
+        "children": [
+          {
+            "name": "Tressa Monahan"
+          }
+        ]
+      },
+      {
+        "name": "Администрирование тестовых сред",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "АС Сервисы в ФС/ФП Пластиковые карты",
+        "count": 33,
+        "children": [
+          {
+            "name": "Tressie Frami"
+          },
+          {
+            "name": "Davon Schaefer"
+          },
+          {
+            "name": "Cassandra Harris II"
+          },
+          {
+            "name": "Gabrielle Schulist"
+          },
+          {
+            "name": "Roderick Bernier"
+          },
+          {
+            "name": "Tremaine Block"
+          },
+          {
+            "name": "Angela Ullrich"
+          },
+          {
+            "name": "Kristin Kiehn"
+          },
+          {
+            "name": "Payton Walter"
+          },
+          {
+            "name": "Hadley Harber"
+          },
+          {
+            "name": "Ms. Emerald Heathcote"
+          },
+          {
+            "name": "Rosie Metz"
+          },
+          {
+            "name": "Sallie Lebsack"
+          },
+          {
+            "name": "Bud Gutkowski Sr."
+          },
+          {
+            "name": "Miss Stan Kulas"
+          },
+          {
+            "name": "Octavia Rutherford"
+          },
+          {
+            "name": "Brett McCullough"
+          },
+          {
+            "name": "Arielle Murphy"
+          },
+          {
+            "name": "Bradly Bode Jr."
+          },
+          {
+            "name": "Isaias Lesch"
+          },
+          {
+            "name": "Evangeline Eichmann"
+          },
+          {
+            "name": "Katelynn Franecki"
+          },
+          {
+            "name": "Aditya Hickle"
+          },
+          {
+            "name": "Nick Bayer"
+          },
+          {
+            "name": "Taya Schneider"
+          },
+          {
+            "name": "Clarissa Kshlerin"
+          },
+          {
+            "name": "Bennett Wyman"
+          },
+          {
+            "name": "Destany Kuphal IV"
+          },
+          {
+            "name": "Concepcion Ullrich"
+          },
+          {
+            "name": "Bonita Brown"
+          },
+          {
+            "name": "Karina Herzog Sr."
+          },
+          {
+            "name": "Megane Beatty"
+          },
+          {
+            "name": "Llewellyn Spencer"
+          }
+        ]
+      },
+      {
+        "name": "Нагрузочное тестирование",
+        "count": 3,
+        "children": [
+          {
+            "name": "Miss Romaine Schoen"
+          },
+          {
+            "name": "Jewell Cormier"
+          },
+          {
+            "name": "Fannie Rolfson"
+          }
+        ]
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Эквайринг и банковские карты (Соколов)",
+        "count": 20,
+        "children": [
+          {
+            "name": "Yvonne Littel"
+          },
+          {
+            "name": "Adriana Sporer"
+          },
+          {
+            "name": "Eliza Kohler"
+          },
+          {
+            "name": "Francesco Reynolds DDS"
+          },
+          {
+            "name": "Cleo Green Jr."
+          },
+          {
+            "name": "Ike Stroman IV"
+          },
+          {
+            "name": "Adelia Dietrich"
+          },
+          {
+            "name": "Enos Fadel"
+          },
+          {
+            "name": "Elnora Pagac"
+          },
+          {
+            "name": "Laurie Boyer"
+          },
+          {
+            "name": "Miss Jarrett Mertz"
+          },
+          {
+            "name": "Savanah Christiansen"
+          },
+          {
+            "name": "Ahmed Koelpin"
+          },
+          {
+            "name": "Monroe Smith"
+          },
+          {
+            "name": "Florida Rempel Sr."
+          },
+          {
+            "name": "Wilbert Nader"
+          },
+          {
+            "name": "Myrtie Gusikowski"
+          },
+          {
+            "name": "Kaden Powlowski"
+          },
+          {
+            "name": "General Kreiger"
+          },
+          {
+            "name": "George O'Conner"
+          }
+        ]
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 0,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "IT&Ops Support",
+    "count": 23,
+    "children": [
+      {
+        "name": "[ACQ] Merchant Acquiring [Product]",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "IT&Ops_Support",
+        "count": 9,
+        "children": [
+          {
+            "name": "Akeem Green"
+          },
+          {
+            "name": "Zane Parker"
+          },
+          {
+            "name": "Ricardo Kutch"
+          },
+          {
+            "name": "Ernie Corwin PhD"
+          },
+          {
+            "name": "Devyn Walter"
+          },
+          {
+            "name": "Marcus Hintz MD"
+          },
+          {
+            "name": "Franz Nikolaus"
+          },
+          {
+            "name": "Abdullah Abshire"
+          },
+          {
+            "name": "Carmel Kuhn"
+          }
+        ]
+      },
+      {
+        "name": "Legacy Процессинг хаб",
+        "count": 9,
+        "children": [
+          {
+            "name": "Ulises Huels V"
+          },
+          {
+            "name": "Dr. Antone Schneider"
+          },
+          {
+            "name": "Mr. Jovani Bradtke"
+          },
+          {
+            "name": "Norbert Lueilwitz"
+          },
+          {
+            "name": "Kellie Jast"
+          },
+          {
+            "name": "Winifred Stroman"
+          },
+          {
+            "name": "Chelsie Durgan"
+          },
+          {
+            "name": "Oceane Bogan"
+          },
+          {
+            "name": "George Lesch"
+          }
+        ]
+      },
+      {
+        "name": "Legacy Процессинг ядро",
+        "count": 5,
+        "children": [
+          {
+            "name": "Stewart Dibbert"
+          },
+          {
+            "name": "Bert Klocko"
+          },
+          {
+            "name": "Miss Dimitri Kshlerin"
+          },
+          {
+            "name": "Ulices Funk"
+          },
+          {
+            "name": "Crystal Collier"
+          }
+        ]
+      },
+      {
+        "name": "PMO-Processing",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "PMO-ДИТ FrontEnd",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Штаб_Соколов Д.Ю.",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 0,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Process management",
+    "count": 40,
+    "children": [
+      {
+        "name": "Delivery Leads",
+        "count": 6,
+        "children": [
+          {
+            "name": "Malika Kemmer"
+          },
+          {
+            "name": "Isaias Ondricka"
+          },
+          {
+            "name": "Brice Harris"
+          },
+          {
+            "name": "Gideon Vandervort"
+          },
+          {
+            "name": "Shana Moore DDS"
+          },
+          {
+            "name": "Toby Harber"
+          }
+        ]
+      },
+      {
+        "name": "PMO-Processing",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "PMO-ДИТ FrontEnd",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "PMO-РБ",
+        "count": 22,
+        "children": [
+          {
+            "name": "Triston Tillman"
+          },
+          {
+            "name": "Brice Abernathy"
+          },
+          {
+            "name": "Queen Braun"
+          },
+          {
+            "name": "Morgan Hammes"
+          },
+          {
+            "name": "Vern Heidenreich"
+          },
+          {
+            "name": "Jefferey Schroeder"
+          },
+          {
+            "name": "Jarrod Welch"
+          },
+          {
+            "name": "Lela Botsford"
+          },
+          {
+            "name": "Alexzander Hettinger"
+          },
+          {
+            "name": "Nichole Olson"
+          },
+          {
+            "name": "Amparo Considine"
+          },
+          {
+            "name": "Kay Bogan"
+          },
+          {
+            "name": "Ashlee Bogisich"
+          },
+          {
+            "name": "Myrl Nader"
+          },
+          {
+            "name": "Milford Walsh"
+          },
+          {
+            "name": "Rachelle Becker"
+          },
+          {
+            "name": "Ola Boyer"
+          },
+          {
+            "name": "Korey Lueilwitz"
+          },
+          {
+            "name": "Scottie Koch"
+          },
+          {
+            "name": "Buster Reichel"
+          },
+          {
+            "name": "Mitchel Schmitt"
+          },
+          {
+            "name": "Orin Lind"
+          }
+        ]
+      },
+      {
+        "name": "Портальные сервисы",
+        "count": 2,
+        "children": [
+          {
+            "name": "Lilly Glover"
+          },
+          {
+            "name": "Mr. Wilburn Anderson"
+          }
+        ]
+      },
+      {
+        "name": "Сервисы для ЮЛ",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 9,
+        "children": [
+          {
+            "name": "Maverick Koepp"
+          },
+          {
+            "name": "Lenna Glover"
+          },
+          {
+            "name": "Megane Macejkovic"
+          },
+          {
+            "name": "Jamir Metz MD"
+          },
+          {
+            "name": "Darion Yost"
+          },
+          {
+            "name": "Trisha Walsh Sr."
+          },
+          {
+            "name": "Reid Robel"
+          },
+          {
+            "name": "Sarai Abernathy"
+          },
+          {
+            "name": "Hershel Johnson"
+          }
+        ]
+      },
+      {
+        "name": "Эквайринг и банковские карты (Соколов)",
+        "count": 1,
+        "children": [
+          {
+            "name": "Dino Toy"
+          }
+        ]
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 0,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Дебетовые Карты Продукт",
+    "count": 33,
+    "children": [
+      {
+        "name": "Debit_Cards_Product",
+        "count": 21,
+        "children": [
+          {
+            "name": "Cristal O'Reilly"
+          },
+          {
+            "name": "Una Larkin"
+          },
+          {
+            "name": "Marcelino McCullough"
+          },
+          {
+            "name": "Kayli Stiedemann"
+          },
+          {
+            "name": "Cortney Marks"
+          },
+          {
+            "name": "Breanne Schinner IV"
+          },
+          {
+            "name": "Rylan Kuvalis"
+          },
+          {
+            "name": "Mrs. Monica Mann"
+          },
+          {
+            "name": "Ian Marquardt"
+          },
+          {
+            "name": "Bridget Baumbach"
+          },
+          {
+            "name": "Florine Howell"
+          },
+          {
+            "name": "Wade Aufderhar"
+          },
+          {
+            "name": "Marianne Carter"
+          },
+          {
+            "name": "Jeanie Altenwerth"
+          },
+          {
+            "name": "Myrtice Howe"
+          },
+          {
+            "name": "Miss Antonette Ledner"
+          },
+          {
+            "name": "Jessyca Romaguera"
+          },
+          {
+            "name": "Rosendo DuBuque Jr."
+          },
+          {
+            "name": "Reynold Berge"
+          },
+          {
+            "name": "Miss Wade Lehner"
+          },
+          {
+            "name": "Alysha Dooley"
+          }
+        ]
+      },
+      {
+        "name": "Debit_Cards&Acquiring_Methodology",
+        "count": 1,
+        "children": [
+          {
+            "name": "Phyllis Bergstrom II"
+          }
+        ]
+      },
+      {
+        "name": "Delivery Leads",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Legacy Процессинг ядро",
+        "count": 5,
+        "children": [
+          {
+            "name": "Ethel Stark"
+          },
+          {
+            "name": "Macie Christiansen"
+          },
+          {
+            "name": "Josianne Bashirian"
+          },
+          {
+            "name": "Boris Denesik"
+          },
+          {
+            "name": "Mara Rodriguez"
+          }
+        ]
+      },
+      {
+        "name": "Неразмеченные Рокотян",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Сервисы для ЮЛ",
+        "count": 4,
+        "children": [
+          {
+            "name": "Alphonso Deckow"
+          },
+          {
+            "name": "Mr. Gwen Rolfson"
+          },
+          {
+            "name": "Marjorie Pagac"
+          },
+          {
+            "name": "Reggie Mueller"
+          }
+        ]
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 2,
+        "children": [
+          {
+            "name": "Isidro Bode"
+          },
+          {
+            "name": "Elna Yundt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Дебетовые Карты Сервисы",
+    "count": 103,
+    "children": [
+      {
+        "name": "Debit_Cards_Product",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Debit_Cards_Services",
+        "count": 16,
+        "children": [
+          {
+            "name": "Constantin Heathcote"
+          },
+          {
+            "name": "Lauretta Donnelly"
+          },
+          {
+            "name": "Tillman Reinger"
+          },
+          {
+            "name": "Ashly Klocko"
+          },
+          {
+            "name": "Jaeden Schmidt"
+          },
+          {
+            "name": "Sandy Wehner"
+          },
+          {
+            "name": "Thaddeus Green"
+          },
+          {
+            "name": "Alvena Fritsch"
+          },
+          {
+            "name": "Alessia Effertz Sr."
+          },
+          {
+            "name": "Jess Mayert"
+          },
+          {
+            "name": "Sonya Flatley"
+          },
+          {
+            "name": "Zula Herzog"
+          },
+          {
+            "name": "Kathryn Stanton"
+          },
+          {
+            "name": "Vicente Wintheiser"
+          },
+          {
+            "name": "Helen Cruickshank"
+          },
+          {
+            "name": "Percy Vandervort V"
+          }
+        ]
+      },
+      {
+        "name": "Debit_Cards&Acquiring_Methodology",
+        "count": 1,
+        "children": [
+          {
+            "name": "Mrs. Creola Lubowitz"
+          }
+        ]
+      },
+      {
+        "name": "Delivery Leads",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Legacy Процессинг Back-Office",
+        "count": 1,
+        "children": [
+          {
+            "name": "Jakayla Marks"
+          }
+        ]
+      },
+      {
+        "name": "Legacy Процессинг ядро",
+        "count": 38,
+        "children": [
+          {
+            "name": "Shannon Yundt"
+          },
+          {
+            "name": "Carolina Bruen III"
+          },
+          {
+            "name": "Mr. Robin Schowalter"
+          },
+          {
+            "name": "Adolf Glover"
+          },
+          {
+            "name": "Margarett Ledner"
+          },
+          {
+            "name": "Delbert Kessler"
+          },
+          {
+            "name": "Roberto Hilpert"
+          },
+          {
+            "name": "Jeanne Auer III"
+          },
+          {
+            "name": "Reggie Stanton"
+          },
+          {
+            "name": "Consuelo Ziemann"
+          },
+          {
+            "name": "Amani Bechtelar"
+          },
+          {
+            "name": "Hermann Botsford"
+          },
+          {
+            "name": "Lucie Becker"
+          },
+          {
+            "name": "Harold Littel"
+          },
+          {
+            "name": "Mr. Lyric Sporer"
+          },
+          {
+            "name": "Rachael Pagac"
+          },
+          {
+            "name": "Mckayla Konopelski"
+          },
+          {
+            "name": "Ms. Zoey Bins"
+          },
+          {
+            "name": "Howell Aufderhar"
+          },
+          {
+            "name": "Monserrate Macejkovic"
+          },
+          {
+            "name": "Jake Bailey"
+          },
+          {
+            "name": "Ola Kling"
+          },
+          {
+            "name": "Sabina Farrell"
+          },
+          {
+            "name": "Emmet Lynch Jr."
+          },
+          {
+            "name": "Alejandra Williamson"
+          },
+          {
+            "name": "Tyree Gerlach"
+          },
+          {
+            "name": "Fred Schaden"
+          },
+          {
+            "name": "Maida Leffler"
+          },
+          {
+            "name": "Rosalia Bailey III"
+          },
+          {
+            "name": "Kareem Gleason"
+          },
+          {
+            "name": "Julia Schinner V"
+          },
+          {
+            "name": "Jon Mann"
+          },
+          {
+            "name": "Fritz Hane"
+          },
+          {
+            "name": "Alberto Runolfsdottir"
+          },
+          {
+            "name": "Abner Sawayn"
+          },
+          {
+            "name": "Adriana O'Hara"
+          },
+          {
+            "name": "Lucio Mayert"
+          },
+          {
+            "name": "Herbert Rowe I"
+          }
+        ]
+      },
+      {
+        "name": "PMO-ДИТ FrontEnd",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 45,
+        "children": [
+          {
+            "name": "Liza Dickens"
+          },
+          {
+            "name": "Jaquelin Russel"
+          },
+          {
+            "name": "Sophia Zboncak"
+          },
+          {
+            "name": "Ian Lebsack"
+          },
+          {
+            "name": "Bennett Quitzon"
+          },
+          {
+            "name": "Cornell Keeling"
+          },
+          {
+            "name": "Vidal Kling"
+          },
+          {
+            "name": "Cali Sauer"
+          },
+          {
+            "name": "Alda Rau"
+          },
+          {
+            "name": "Kane Romaguera"
+          },
+          {
+            "name": "Jocelyn Feeney"
+          },
+          {
+            "name": "Enola Doyle"
+          },
+          {
+            "name": "Roxane Effertz"
+          },
+          {
+            "name": "Delilah Smitham"
+          },
+          {
+            "name": "Luis Morissette"
+          },
+          {
+            "name": "Samanta Cronin"
+          },
+          {
+            "name": "Jesse Ortiz I"
+          },
+          {
+            "name": "Napoleon Abshire"
+          },
+          {
+            "name": "Mellie Vandervort"
+          },
+          {
+            "name": "Karley Ward"
+          },
+          {
+            "name": "Myrl Turcotte"
+          },
+          {
+            "name": "Maybelle Borer"
+          },
+          {
+            "name": "Brielle Champlin"
+          },
+          {
+            "name": "Alexis Murray"
+          },
+          {
+            "name": "Elias Bailey"
+          },
+          {
+            "name": "Mrs. Nils Goldner"
+          },
+          {
+            "name": "Krystina Gerhold MD"
+          },
+          {
+            "name": "Alexandra Emard DVM"
+          },
+          {
+            "name": "Dewayne Price"
+          },
+          {
+            "name": "Tatyana Hodkiewicz"
+          },
+          {
+            "name": "Mrs. Juvenal Green"
+          },
+          {
+            "name": "Iliana Feil"
+          },
+          {
+            "name": "Haven Reynolds"
+          },
+          {
+            "name": "Laury Willms"
+          },
+          {
+            "name": "Ashlynn Runolfsson"
+          },
+          {
+            "name": "Blair Koss"
+          },
+          {
+            "name": "Jaycee Swift"
+          },
+          {
+            "name": "Reynold Macejkovic"
+          },
+          {
+            "name": "Noemi Bartell"
+          },
+          {
+            "name": "Adrianna Hoeger"
+          },
+          {
+            "name": "Ward Donnelly"
+          },
+          {
+            "name": "Sandy Luettgen"
+          },
+          {
+            "name": "Lyla Corkery"
+          },
+          {
+            "name": "Marjolaine Sauer"
+          },
+          {
+            "name": "Erick Ankunding III"
+          }
+        ]
+      },
+      {
+        "name": "Эквайринг и банковские карты (Соколов)",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 2,
+        "children": [
+          {
+            "name": "Ahmed Prosacco"
+          },
+          {
+            "name": "Jaylan Kessler"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Дебетовые карты. Управление портфелем",
+    "count": 10,
+    "children": [
+      {
+        "name": "Debit Cards_Product Portfolio",
+        "count": 10,
+        "children": [
+          {
+            "name": "Shad Stracke"
+          },
+          {
+            "name": "Hans Gislason"
+          },
+          {
+            "name": "Marion Dicki"
+          },
+          {
+            "name": "Fern Wintheiser"
+          },
+          {
+            "name": "Emory Denesik III"
+          },
+          {
+            "name": "Johnathon Heathcote"
+          },
+          {
+            "name": "Guido Schultz"
+          },
+          {
+            "name": "Sally Bruen III"
+          },
+          {
+            "name": "Alfonso Hilpert DVM"
+          },
+          {
+            "name": "Dashawn Schoen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Зарплатный продукт",
+    "count": 92,
+    "children": [
+      {
+        "name": "[RUN] CTO Card Solutions",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Debit_Cards&Acquiring_Methodology",
+        "count": 4,
+        "children": [
+          {
+            "name": "Caitlyn Cassin"
+          },
+          {
+            "name": "Berenice Hessel"
+          },
+          {
+            "name": "Shawn Abbott PhD"
+          },
+          {
+            "name": "Mr. Rossie Koelpin"
+          }
+        ]
+      },
+      {
+        "name": "Legacy Процессинг ядро",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Payroll",
+        "count": 16,
+        "children": [
+          {
+            "name": "Mrs. Alda Blick"
+          },
+          {
+            "name": "Mrs. Marcelina Homenick"
+          },
+          {
+            "name": "Mrs. Eliezer Beahan"
+          },
+          {
+            "name": "Jakob Durgan DDS"
+          },
+          {
+            "name": "Jadyn Beatty"
+          },
+          {
+            "name": "Danial Homenick"
+          },
+          {
+            "name": "Easton Hane"
+          },
+          {
+            "name": "Adriana Buckridge"
+          },
+          {
+            "name": "Jaylen Dicki Jr."
+          },
+          {
+            "name": "Kaden Ullrich"
+          },
+          {
+            "name": "Eulalia Huel"
+          },
+          {
+            "name": "Brendon Ledner Sr."
+          },
+          {
+            "name": "Malvina Sawayn"
+          },
+          {
+            "name": "Abbie Gutkowski"
+          },
+          {
+            "name": "Randy Watsica PhD"
+          },
+          {
+            "name": "Oceane Kling"
+          }
+        ]
+      },
+      {
+        "name": "ППРБ.Эквайринг/ЗП",
+        "count": 58,
+        "children": [
+          {
+            "name": "Celestine Treutel"
+          },
+          {
+            "name": "Miss Sarina Strosin"
+          },
+          {
+            "name": "Adolf Torphy III"
+          },
+          {
+            "name": "Miss Margaretta Kling"
+          },
+          {
+            "name": "Ellsworth Watsica"
+          },
+          {
+            "name": "Bryana Dicki"
+          },
+          {
+            "name": "Doug Legros"
+          },
+          {
+            "name": "Tony Carter"
+          },
+          {
+            "name": "Ms. Joseph Barrows"
+          },
+          {
+            "name": "Ms. Davonte Koch"
+          },
+          {
+            "name": "Maverick Torphy"
+          },
+          {
+            "name": "Lon Lockman"
+          },
+          {
+            "name": "Mrs. Carter Thompson"
+          },
+          {
+            "name": "Alexandra Runolfsdottir"
+          },
+          {
+            "name": "Dan Beatty"
+          },
+          {
+            "name": "Miss Boyd Gottlieb"
+          },
+          {
+            "name": "Alden Weber"
+          },
+          {
+            "name": "Kaia Greenfelder"
+          },
+          {
+            "name": "Dr. Delphia Leannon"
+          },
+          {
+            "name": "Destany Bayer"
+          },
+          {
+            "name": "Mrs. Jared Armstrong"
+          },
+          {
+            "name": "Antonette Rutherford"
+          },
+          {
+            "name": "Ned Robel"
+          },
+          {
+            "name": "Bettie Moen"
+          },
+          {
+            "name": "Rowan Bartell"
+          },
+          {
+            "name": "Lolita Rau"
+          },
+          {
+            "name": "Elian Torphy III"
+          },
+          {
+            "name": "Myron Cole"
+          },
+          {
+            "name": "Ted White"
+          },
+          {
+            "name": "Mr. Dahlia Pfannerstill"
+          },
+          {
+            "name": "Rita Bradtke"
+          },
+          {
+            "name": "Garry Schowalter"
+          },
+          {
+            "name": "Tyson Sipes"
+          },
+          {
+            "name": "Eula Legros"
+          },
+          {
+            "name": "Stefan Gibson"
+          },
+          {
+            "name": "Nyasia Rice Sr."
+          },
+          {
+            "name": "Frederik Hills"
+          },
+          {
+            "name": "Hillard Kshlerin"
+          },
+          {
+            "name": "Cedrick Aufderhar"
+          },
+          {
+            "name": "Zackary Kuphal V"
+          },
+          {
+            "name": "Maureen Crona"
+          },
+          {
+            "name": "Neha Connelly"
+          },
+          {
+            "name": "Albin Stracke"
+          },
+          {
+            "name": "Nathen Jast"
+          },
+          {
+            "name": "Adaline Luettgen"
+          },
+          {
+            "name": "Aracely Wyman"
+          },
+          {
+            "name": "Wilhelmine Ferry"
+          },
+          {
+            "name": "Mr. Lempi Nikolaus"
+          },
+          {
+            "name": "Hortense Waters"
+          },
+          {
+            "name": "Elsie Swaniawski"
+          },
+          {
+            "name": "Leonardo Breitenberg"
+          },
+          {
+            "name": "Holly Reynolds"
+          },
+          {
+            "name": "Mr. Coleman Marks"
+          },
+          {
+            "name": "Juston Willms"
+          },
+          {
+            "name": "Mr. Mckenna Mann"
+          },
+          {
+            "name": "Vicky Waelchi"
+          },
+          {
+            "name": "Austyn Wisozk II"
+          },
+          {
+            "name": "Kaia Weber II"
+          }
+        ]
+      },
+      {
+        "name": "Сервисы для ЮЛ",
+        "count": 5,
+        "children": [
+          {
+            "name": "Kyleigh Marks"
+          },
+          {
+            "name": "Ms. Margarita Weimann"
+          },
+          {
+            "name": "Mavis Green"
+          },
+          {
+            "name": "Mrs. Kaylee Strosin"
+          },
+          {
+            "name": "Krista Stroman"
+          }
+        ]
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 7,
+        "children": [
+          {
+            "name": "Thora Ondricka DDS"
+          },
+          {
+            "name": "Lourdes Schamberger"
+          },
+          {
+            "name": "Verner Hane"
+          },
+          {
+            "name": "Kristin Emmerich"
+          },
+          {
+            "name": "Nikita Hagenes"
+          },
+          {
+            "name": "Favian Koelpin"
+          },
+          {
+            "name": "Juvenal Hoeger"
+          }
+        ]
+      },
+      {
+        "name": "Штаб_Соколов Д.Ю.",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 2,
+        "children": [
+          {
+            "name": "Isac Schuster"
+          },
+          {
+            "name": "Giovanna Lemke"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Программа лояльности",
+    "count": 196,
+    "children": [
+      {
+        "name": "АО Центр программ Лояльности",
+        "count": 49,
+        "children": [
+          {
+            "name": "Annabelle Schaden"
+          },
+          {
+            "name": "Joanne Kunde"
+          },
+          {
+            "name": "Aiden Fritsch"
+          },
+          {
+            "name": "Elenora Graham"
+          },
+          {
+            "name": "Albertha Kub"
+          },
+          {
+            "name": "Miss Arvid O'Hara"
+          },
+          {
+            "name": "Miss Gordon Osinski"
+          },
+          {
+            "name": "Hassie Lowe"
+          },
+          {
+            "name": "Chester Waters"
+          },
+          {
+            "name": "Bradly Senger"
+          },
+          {
+            "name": "Tanya Mante"
+          },
+          {
+            "name": "Rafaela Brown"
+          },
+          {
+            "name": "Bethany Waters"
+          },
+          {
+            "name": "Charlene Yost"
+          },
+          {
+            "name": "Reyna Davis"
+          },
+          {
+            "name": "Tremayne Lebsack"
+          },
+          {
+            "name": "Allan McKenzie"
+          },
+          {
+            "name": "Evan Ratke II"
+          },
+          {
+            "name": "Amani Runolfsson I"
+          },
+          {
+            "name": "Lilly Koepp"
+          },
+          {
+            "name": "Mr. Alexis Lind"
+          },
+          {
+            "name": "Nigel Becker"
+          },
+          {
+            "name": "Kailyn Lockman"
+          },
+          {
+            "name": "Alex Powlowski"
+          },
+          {
+            "name": "Harvey Armstrong II"
+          },
+          {
+            "name": "Breanna Hand"
+          },
+          {
+            "name": "Aliyah Reynolds"
+          },
+          {
+            "name": "Vickie Leannon"
+          },
+          {
+            "name": "Hunter Champlin"
+          },
+          {
+            "name": "Dario Schowalter"
+          },
+          {
+            "name": "Miss Larue Jaskolski"
+          },
+          {
+            "name": "Eulah VonRueden"
+          },
+          {
+            "name": "Anya Aufderhar"
+          },
+          {
+            "name": "Joaquin Cassin"
+          },
+          {
+            "name": "Jazlyn Hahn"
+          },
+          {
+            "name": "Mrs. Jarod Gusikowski"
+          },
+          {
+            "name": "Ned Fisher"
+          },
+          {
+            "name": "Humberto Cassin"
+          },
+          {
+            "name": "Savion Bahringer"
+          },
+          {
+            "name": "Marlin McLaughlin"
+          },
+          {
+            "name": "Alverta Mante"
+          },
+          {
+            "name": "Jeromy Murazik"
+          },
+          {
+            "name": "Shane Ullrich"
+          },
+          {
+            "name": "Bartholome Senger"
+          },
+          {
+            "name": "Zachery Franecki Jr."
+          },
+          {
+            "name": "Alysa Kilback"
+          },
+          {
+            "name": "Jameson Schaefer"
+          },
+          {
+            "name": "Adelle Rutherford"
+          },
+          {
+            "name": "Jocelyn Barrows"
+          }
+        ]
+      },
+      {
+        "name": "PMO-РБ",
+        "count": 1,
+        "children": [
+          {
+            "name": "Dr. Jarrett Shields"
+          }
+        ]
+      },
+      {
+        "name": "ППРБ.Эквайринг/ЗП",
+        "count": 27,
+        "children": [
+          {
+            "name": "Esteban Gleason"
+          },
+          {
+            "name": "Elisabeth Reinger"
+          },
+          {
+            "name": "Jarrett Anderson"
+          },
+          {
+            "name": "Francesco Schmitt"
+          },
+          {
+            "name": "Jeanie Schaden"
+          },
+          {
+            "name": "Otto Williamson"
+          },
+          {
+            "name": "Glen Veum"
+          },
+          {
+            "name": "Sandra Grimes"
+          },
+          {
+            "name": "Durward Kshlerin III"
+          },
+          {
+            "name": "Marina Hyatt"
+          },
+          {
+            "name": "Florine Will"
+          },
+          {
+            "name": "Declan Luettgen"
+          },
+          {
+            "name": "Tressie Armstrong"
+          },
+          {
+            "name": "Dr. Laurence Torphy"
+          },
+          {
+            "name": "Nicolas Grimes DVM"
+          },
+          {
+            "name": "Nathanial Prohaska"
+          },
+          {
+            "name": "Ms. Cassie Lueilwitz"
+          },
+          {
+            "name": "Darrell Leffler"
+          },
+          {
+            "name": "Wava Hirthe"
+          },
+          {
+            "name": "Joelle Moore"
+          },
+          {
+            "name": "Retta Quigley"
+          },
+          {
+            "name": "Miss Trisha Cole"
+          },
+          {
+            "name": "Efrain McGlynn"
+          },
+          {
+            "name": "Dr. Kamille Stehr"
+          },
+          {
+            "name": "Ally Simonis"
+          },
+          {
+            "name": "Yvette Larson"
+          },
+          {
+            "name": "Mrs. Camren Romaguera"
+          }
+        ]
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 9,
+        "children": [
+          {
+            "name": "Mr. Ines Howe"
+          },
+          {
+            "name": "Meaghan Block"
+          },
+          {
+            "name": "Ole Dare"
+          },
+          {
+            "name": "Dovie Murazik Sr."
+          },
+          {
+            "name": "Leanna Hettinger"
+          },
+          {
+            "name": "Cristina Waelchi Jr."
+          },
+          {
+            "name": "Taya Abernathy I"
+          },
+          {
+            "name": "Regan Labadie"
+          },
+          {
+            "name": "Erwin Little"
+          }
+        ]
+      },
+      {
+        "name": "Штаб_Соколов Д.Ю.",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 110,
+        "children": [
+          {
+            "name": "Garnett Gutmann Sr."
+          },
+          {
+            "name": "Elvera Kemmer"
+          },
+          {
+            "name": "Nadia Pacocha"
+          },
+          {
+            "name": "Marie Price"
+          },
+          {
+            "name": "Dan Jast"
+          },
+          {
+            "name": "Mollie Cronin"
+          },
+          {
+            "name": "Isabella Schaefer Sr."
+          },
+          {
+            "name": "Ms. Imelda Hyatt"
+          },
+          {
+            "name": "Carley Yundt"
+          },
+          {
+            "name": "Reanna Stark I"
+          },
+          {
+            "name": "Miss Kaylie Kunze"
+          },
+          {
+            "name": "Osborne Abbott V"
+          },
+          {
+            "name": "Maryse Collins"
+          },
+          {
+            "name": "Holly Prosacco"
+          },
+          {
+            "name": "Manley O'Hara"
+          },
+          {
+            "name": "Howard Stiedemann II"
+          },
+          {
+            "name": "Chasity Walker"
+          },
+          {
+            "name": "Kiera Thompson PhD"
+          },
+          {
+            "name": "Foster Johnston"
+          },
+          {
+            "name": "Clarabelle Cummerata"
+          },
+          {
+            "name": "Thelma Ratke Jr."
+          },
+          {
+            "name": "Kailee Frami"
+          },
+          {
+            "name": "Hermann Auer"
+          },
+          {
+            "name": "Eddie Lemke"
+          },
+          {
+            "name": "Mariela Goyette"
+          },
+          {
+            "name": "Ofelia Emmerich"
+          },
+          {
+            "name": "Myrtis Heaney"
+          },
+          {
+            "name": "Dr. Zakary Kerluke"
+          },
+          {
+            "name": "Peter Denesik"
+          },
+          {
+            "name": "Carroll Heathcote"
+          },
+          {
+            "name": "Aric Waters"
+          },
+          {
+            "name": "Santino Waters"
+          },
+          {
+            "name": "Blanca Morissette"
+          },
+          {
+            "name": "Iva Satterfield"
+          },
+          {
+            "name": "Earlene Monahan"
+          },
+          {
+            "name": "Mr. Dameon Oberbrunner"
+          },
+          {
+            "name": "Brandt Kshlerin"
+          },
+          {
+            "name": "Raheem Kessler"
+          },
+          {
+            "name": "Carson Borer MD"
+          },
+          {
+            "name": "Armani Schumm"
+          },
+          {
+            "name": "Amari Cole"
+          },
+          {
+            "name": "Gail Ortiz"
+          },
+          {
+            "name": "Marley Steuber"
+          },
+          {
+            "name": "Gilda Goldner"
+          },
+          {
+            "name": "Rita Daniel"
+          },
+          {
+            "name": "Ofelia Beahan"
+          },
+          {
+            "name": "Ariel Murray"
+          },
+          {
+            "name": "Troy Hackett"
+          },
+          {
+            "name": "Sterling Purdy"
+          },
+          {
+            "name": "Ramiro Kulas"
+          },
+          {
+            "name": "Joseph Klocko"
+          },
+          {
+            "name": "Coby Hickle"
+          },
+          {
+            "name": "Jackie Quigley"
+          },
+          {
+            "name": "Kaylin Hettinger"
+          },
+          {
+            "name": "Berenice Franecki"
+          },
+          {
+            "name": "Dorcas Ledner"
+          },
+          {
+            "name": "Kadin Durgan"
+          },
+          {
+            "name": "Lela Cole III"
+          },
+          {
+            "name": "Laverna Gutmann"
+          },
+          {
+            "name": "Bria Parisian"
+          },
+          {
+            "name": "Uriel Renner"
+          },
+          {
+            "name": "Jermey Langworth"
+          },
+          {
+            "name": "Ethyl Kemmer"
+          },
+          {
+            "name": "Dan Mills"
+          },
+          {
+            "name": "Colby Legros"
+          },
+          {
+            "name": "Dr. Gladys White"
+          },
+          {
+            "name": "Michele Frami"
+          },
+          {
+            "name": "Ludie Maggio"
+          },
+          {
+            "name": "Laverna Lebsack MD"
+          },
+          {
+            "name": "Mr. Dock Franecki"
+          },
+          {
+            "name": "Aurelie Stamm"
+          },
+          {
+            "name": "Rey McLaughlin"
+          },
+          {
+            "name": "Miracle Gulgowski"
+          },
+          {
+            "name": "Earlene Osinski"
+          },
+          {
+            "name": "Julianne Zulauf"
+          },
+          {
+            "name": "Andy Klocko"
+          },
+          {
+            "name": "Libbie Kub"
+          },
+          {
+            "name": "Kelley Leuschke"
+          },
+          {
+            "name": "Yasmin Huels"
+          },
+          {
+            "name": "Jenifer Senger"
+          },
+          {
+            "name": "Justine Lueilwitz"
+          },
+          {
+            "name": "Reece Ritchie"
+          },
+          {
+            "name": "Gretchen Ebert III"
+          },
+          {
+            "name": "Ms. Joel Schroeder"
+          },
+          {
+            "name": "Nolan Lind"
+          },
+          {
+            "name": "Libby Grady I"
+          },
+          {
+            "name": "Shayna Wunsch"
+          },
+          {
+            "name": "Mr. Shaun Feest"
+          },
+          {
+            "name": "Morgan Ledner"
+          },
+          {
+            "name": "Natalie Strosin"
+          },
+          {
+            "name": "Ron Auer"
+          },
+          {
+            "name": "Damien Paucek"
+          },
+          {
+            "name": "Connie Little"
+          },
+          {
+            "name": "Miss Adolfo Jones"
+          },
+          {
+            "name": "Shyanne Ankunding"
+          },
+          {
+            "name": "Candido Stehr"
+          },
+          {
+            "name": "Dr. Petra Toy"
+          },
+          {
+            "name": "Jerrold Pouros"
+          },
+          {
+            "name": "Jamir Jerde"
+          },
+          {
+            "name": "Rosalind Schmeler"
+          },
+          {
+            "name": "Carlo McClure"
+          },
+          {
+            "name": "Eloy Kuphal"
+          },
+          {
+            "name": "Jaylin Lemke"
+          },
+          {
+            "name": "Shyanne Wilderman III"
+          },
+          {
+            "name": "Sister Huel"
+          },
+          {
+            "name": "Terrill West"
+          },
+          {
+            "name": "Elisabeth Connelly"
+          },
+          {
+            "name": "Lizeth Howe Jr."
+          },
+          {
+            "name": "Salvador Eichmann"
+          },
+          {
+            "name": "Titus Crooks"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Процессинг ППРБ",
+    "count": 64,
+    "children": [
+      {
+        "name": "Processing_System_Development",
+        "count": 6,
+        "children": [
+          {
+            "name": "Jennie Casper"
+          },
+          {
+            "name": "Freeda Schumm"
+          },
+          {
+            "name": "Carolyn Dooley"
+          },
+          {
+            "name": "Kayli Muller DVM"
+          },
+          {
+            "name": "Presley Quitzon"
+          },
+          {
+            "name": "Sheila Medhurst"
+          }
+        ]
+      },
+      {
+        "name": "ППРБ. Процессинг",
+        "count": 57,
+        "children": [
+          {
+            "name": "Simone Reilly"
+          },
+          {
+            "name": "Joyce Boyer"
+          },
+          {
+            "name": "Ms. Linnie Cummerata"
+          },
+          {
+            "name": "Rogelio Keebler"
+          },
+          {
+            "name": "Dr. Markus Jacobs"
+          },
+          {
+            "name": "Mrs. Darion Eichmann"
+          },
+          {
+            "name": "Lane Reichert"
+          },
+          {
+            "name": "Kaleb O'Hara"
+          },
+          {
+            "name": "Dolly Rohan"
+          },
+          {
+            "name": "Lola Kohler"
+          },
+          {
+            "name": "Maudie Mosciski"
+          },
+          {
+            "name": "Miss Henderson Flatley"
+          },
+          {
+            "name": "Mrs. Braeden MacGyver"
+          },
+          {
+            "name": "Tressa Kertzmann"
+          },
+          {
+            "name": "Kristofer Parisian IV"
+          },
+          {
+            "name": "Evans Lesch"
+          },
+          {
+            "name": "Victor Labadie V"
+          },
+          {
+            "name": "Jarod Ullrich"
+          },
+          {
+            "name": "Joannie Russel"
+          },
+          {
+            "name": "Zena Ward"
+          },
+          {
+            "name": "Juanita Quigley"
+          },
+          {
+            "name": "Henderson Christiansen"
+          },
+          {
+            "name": "Dexter Towne"
+          },
+          {
+            "name": "Zoila Ryan"
+          },
+          {
+            "name": "Leda Cormier"
+          },
+          {
+            "name": "Jonas McDermott DVM"
+          },
+          {
+            "name": "Jadon Bogan"
+          },
+          {
+            "name": "Hillard Gottlieb"
+          },
+          {
+            "name": "Geovanni Kuhn"
+          },
+          {
+            "name": "Mrs. Myah Kuvalis"
+          },
+          {
+            "name": "Dusty Carroll PhD"
+          },
+          {
+            "name": "Dallas Lindgren"
+          },
+          {
+            "name": "Ezra Cassin"
+          },
+          {
+            "name": "Brycen Lemke"
+          },
+          {
+            "name": "Giovanna Koelpin"
+          },
+          {
+            "name": "Manuela Koch"
+          },
+          {
+            "name": "Katharina O'Keefe"
+          },
+          {
+            "name": "Carrie Johnston"
+          },
+          {
+            "name": "Adriel Konopelski"
+          },
+          {
+            "name": "Drake Jenkins IV"
+          },
+          {
+            "name": "Mr. Gerardo Windler"
+          },
+          {
+            "name": "Mark White"
+          },
+          {
+            "name": "Zetta Goodwin I"
+          },
+          {
+            "name": "Miss Quinton Mann"
+          },
+          {
+            "name": "Monserrat Runolfsdottir"
+          },
+          {
+            "name": "Lisandro Welch"
+          },
+          {
+            "name": "Aliya Bode Jr."
+          },
+          {
+            "name": "Shayne Hamill"
+          },
+          {
+            "name": "Thurman Gleichner"
+          },
+          {
+            "name": "Kareem Runolfsdottir"
+          },
+          {
+            "name": "Harvey Hansen"
+          },
+          {
+            "name": "Oral Tillman DDS"
+          },
+          {
+            "name": "Percival Quitzon"
+          },
+          {
+            "name": "Adelle Willms"
+          },
+          {
+            "name": "Trent Hessel"
+          },
+          {
+            "name": "Dillon Crist"
+          },
+          {
+            "name": "Leopoldo Beier"
+          }
+        ]
+      },
+      {
+        "name": "ППРБ.Эквайринг/ЗП",
+        "count": 1,
+        "children": [
+          {
+            "name": "Gay Zieme"
+          }
+        ]
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Штаб_Соколов Д.Ю.",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 0,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Управление эффективностью дивизиона",
+    "count": 9,
+    "children": [
+      {
+        "name": "Division_Performance_Management",
+        "count": 9,
+        "children": [
+          {
+            "name": "Dr. Alba Okuneva"
+          },
+          {
+            "name": "Mr. Michele Adams"
+          },
+          {
+            "name": "Leilani Moore"
+          },
+          {
+            "name": "Davin Halvorson"
+          },
+          {
+            "name": "Mrs. Maegan Reichert"
+          },
+          {
+            "name": "Nathen Tillman"
+          },
+          {
+            "name": "Elroy Jakubowski"
+          },
+          {
+            "name": "Kendrick Lowe"
+          },
+          {
+            "name": "Dr. Freeda Boyer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Эквайринг  Sales",
+    "count": 30,
+    "children": [
+      {
+        "name": "Field_sales_management",
+        "count": 16,
+        "children": [
+          {
+            "name": "Name Welch"
+          },
+          {
+            "name": "Theron Kiehn"
+          },
+          {
+            "name": "Roberta Maggio"
+          },
+          {
+            "name": "Rod Ferry"
+          },
+          {
+            "name": "Lillian Waters"
+          },
+          {
+            "name": "Giovanny Lindgren"
+          },
+          {
+            "name": "Ofelia Russel"
+          },
+          {
+            "name": "Geo Mitchell"
+          },
+          {
+            "name": "Miss Amelia Nitzsche"
+          },
+          {
+            "name": "Caroline Borer V"
+          },
+          {
+            "name": "Delilah Zieme"
+          },
+          {
+            "name": "Aliyah Crist"
+          },
+          {
+            "name": "Bernard Lind"
+          },
+          {
+            "name": "Toy Kunze"
+          },
+          {
+            "name": "Rocky Jacobi"
+          },
+          {
+            "name": "Cierra Casper"
+          }
+        ]
+      },
+      {
+        "name": "МЦТП",
+        "count": 3,
+        "children": [
+          {
+            "name": "Mozelle Ward"
+          },
+          {
+            "name": "Clement Krajcik II"
+          },
+          {
+            "name": "Mohammad Cole"
+          }
+        ]
+      },
+      {
+        "name": "Портальные сервисы",
+        "count": 10,
+        "children": [
+          {
+            "name": "Marcellus Reinger"
+          },
+          {
+            "name": "Berry Veum"
+          },
+          {
+            "name": "Breanna Reichel"
+          },
+          {
+            "name": "Waino Pouros"
+          },
+          {
+            "name": "Gennaro Sauer MD"
+          },
+          {
+            "name": "Merritt Rowe"
+          },
+          {
+            "name": "Milan Schoen"
+          },
+          {
+            "name": "Mr. Berta Von"
+          },
+          {
+            "name": "Serena Tremblay"
+          },
+          {
+            "name": "Myah Doyle"
+          }
+        ]
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 1,
+        "children": [
+          {
+            "name": "Abagail Thompson"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Эквайринг Продукт",
+    "count": 0,
+    "children": [
+      {
+        "name": "[ACQ] Merchant Acquiring [Product]",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Acquiring_Product_(Offline&Online)",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Acquiring_servises",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Debit_Cards&Acquiring_Methodology",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Field_sales_management",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "POS",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Портальные сервисы",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 0,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Эквайринг Сервисы",
+    "count": 202,
+    "children": [
+      {
+        "name": "Acquiring_servises",
+        "count": 21,
+        "children": [
+          {
+            "name": "Sylvan Ziemann"
+          },
+          {
+            "name": "Blair Aufderhar"
+          },
+          {
+            "name": "Kasey O'Kon"
+          },
+          {
+            "name": "Amir Waters"
+          },
+          {
+            "name": "Lessie Lowe"
+          },
+          {
+            "name": "Orville Green"
+          },
+          {
+            "name": "Dayne Cronin"
+          },
+          {
+            "name": "Rocky Renner"
+          },
+          {
+            "name": "Marcelina Denesik"
+          },
+          {
+            "name": "Christelle Hessel"
+          },
+          {
+            "name": "Kitty Pouros I"
+          },
+          {
+            "name": "Shanny O'Keefe"
+          },
+          {
+            "name": "Chet Keebler"
+          },
+          {
+            "name": "Eleazar Hickle"
+          },
+          {
+            "name": "Trent O'Connell"
+          },
+          {
+            "name": "Judy Klocko DDS"
+          },
+          {
+            "name": "Hector Jenkins"
+          },
+          {
+            "name": "Tessie Russel"
+          },
+          {
+            "name": "Desiree Kreiger"
+          },
+          {
+            "name": "Friedrich Rippin Jr."
+          },
+          {
+            "name": "Sallie Metz"
+          }
+        ]
+      },
+      {
+        "name": "IT&Ops_Support",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "POS",
+        "count": 18,
+        "children": [
+          {
+            "name": "Dr. Johann Fisher"
+          },
+          {
+            "name": "Simeon Mueller"
+          },
+          {
+            "name": "Alexandro Kunze"
+          },
+          {
+            "name": "Tina Schuster"
+          },
+          {
+            "name": "Izabella Torp"
+          },
+          {
+            "name": "Graham VonRueden"
+          },
+          {
+            "name": "Aiyana Spencer"
+          },
+          {
+            "name": "Evalyn Kub Jr."
+          },
+          {
+            "name": "Florencio Botsford"
+          },
+          {
+            "name": "Krystal Mayert"
+          },
+          {
+            "name": "Luther Howe"
+          },
+          {
+            "name": "Ewald Altenwerth"
+          },
+          {
+            "name": "Thelma Gutmann"
+          },
+          {
+            "name": "Murray Moore"
+          },
+          {
+            "name": "Zula Abshire"
+          },
+          {
+            "name": "Lon Kunde"
+          },
+          {
+            "name": "Andres Osinski"
+          },
+          {
+            "name": "Dolly Harvey"
+          }
+        ]
+      },
+      {
+        "name": "АС Сервисы в ФС/ФП Пластиковые карты",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "МЦТП",
+        "count": 144,
+        "children": [
+          {
+            "name": "Jacinto Cartwright II"
+          },
+          {
+            "name": "Hailey Cronin"
+          },
+          {
+            "name": "Rowan Schultz"
+          },
+          {
+            "name": "Eduardo Hoeger"
+          },
+          {
+            "name": "Mr. Eda Schuppe"
+          },
+          {
+            "name": "Kattie Abernathy"
+          },
+          {
+            "name": "Miss Candida Miller"
+          },
+          {
+            "name": "Verda Reynolds"
+          },
+          {
+            "name": "Robert Boyle"
+          },
+          {
+            "name": "Jeffrey Kuvalis V"
+          },
+          {
+            "name": "Susan Rosenbaum MD"
+          },
+          {
+            "name": "Idell Anderson"
+          },
+          {
+            "name": "Ricardo Muller"
+          },
+          {
+            "name": "Ruth Bode DVM"
+          },
+          {
+            "name": "Jacynthe Gusikowski"
+          },
+          {
+            "name": "Skyla Padberg"
+          },
+          {
+            "name": "Leda McGlynn Jr."
+          },
+          {
+            "name": "Katrina Bins"
+          },
+          {
+            "name": "Ewald Rippin"
+          },
+          {
+            "name": "Reed Quitzon"
+          },
+          {
+            "name": "Mr. Sandra Bogan"
+          },
+          {
+            "name": "Bella Spinka"
+          },
+          {
+            "name": "Mr. Martina Abshire"
+          },
+          {
+            "name": "Heath Sipes Jr."
+          },
+          {
+            "name": "Deondre Stanton"
+          },
+          {
+            "name": "Adolfo Corkery"
+          },
+          {
+            "name": "Deion King"
+          },
+          {
+            "name": "Lizzie Marvin"
+          },
+          {
+            "name": "Jaclyn Macejkovic"
+          },
+          {
+            "name": "Dr. Gladyce Kiehn"
+          },
+          {
+            "name": "Dejah Abshire"
+          },
+          {
+            "name": "Frederic Maggio"
+          },
+          {
+            "name": "Lowell Kerluke"
+          },
+          {
+            "name": "Shyann Fadel"
+          },
+          {
+            "name": "Kennedy McClure"
+          },
+          {
+            "name": "Kenyon Kessler"
+          },
+          {
+            "name": "Dakota Vandervort"
+          },
+          {
+            "name": "Miss Aglae Kirlin"
+          },
+          {
+            "name": "Brielle Robel"
+          },
+          {
+            "name": "Glenda Towne"
+          },
+          {
+            "name": "Gertrude Ruecker"
+          },
+          {
+            "name": "Eden Runte"
+          },
+          {
+            "name": "Aileen Lakin"
+          },
+          {
+            "name": "Dr. Nettie Treutel"
+          },
+          {
+            "name": "Kara Deckow"
+          },
+          {
+            "name": "Adriana McCullough III"
+          },
+          {
+            "name": "Citlalli Koch"
+          },
+          {
+            "name": "Jazmyn Aufderhar"
+          },
+          {
+            "name": "Leone Funk"
+          },
+          {
+            "name": "Phyllis Cronin"
+          },
+          {
+            "name": "Natalia Auer"
+          },
+          {
+            "name": "Shayne Hegmann"
+          },
+          {
+            "name": "Breana Hodkiewicz"
+          },
+          {
+            "name": "Miguel Padberg"
+          },
+          {
+            "name": "Leora Nikolaus"
+          },
+          {
+            "name": "Reed Hettinger"
+          },
+          {
+            "name": "Dasia Rogahn"
+          },
+          {
+            "name": "Libbie Barrows"
+          },
+          {
+            "name": "Bella Larkin"
+          },
+          {
+            "name": "Marisa Lehner"
+          },
+          {
+            "name": "Tod Denesik DVM"
+          },
+          {
+            "name": "Fleta Kemmer I"
+          },
+          {
+            "name": "Scot Quitzon III"
+          },
+          {
+            "name": "Hassan Stokes"
+          },
+          {
+            "name": "Mabel Collins"
+          },
+          {
+            "name": "Lucie Hand"
+          },
+          {
+            "name": "Stewart Mitchell"
+          },
+          {
+            "name": "Christy Price"
+          },
+          {
+            "name": "Ernestina Shields"
+          },
+          {
+            "name": "Paxton Stiedemann"
+          },
+          {
+            "name": "Trace Stroman Jr."
+          },
+          {
+            "name": "Price Nicolas"
+          },
+          {
+            "name": "Darron Kovacek"
+          },
+          {
+            "name": "Gavin Veum"
+          },
+          {
+            "name": "Annamarie Nikolaus"
+          },
+          {
+            "name": "Woodrow Christiansen"
+          },
+          {
+            "name": "Asha Hills"
+          },
+          {
+            "name": "Green Smith"
+          },
+          {
+            "name": "Ayana Abbott"
+          },
+          {
+            "name": "Gust Tillman"
+          },
+          {
+            "name": "Raymundo Volkman"
+          },
+          {
+            "name": "Elliot Dickinson"
+          },
+          {
+            "name": "Herbert Upton"
+          },
+          {
+            "name": "Miss Marvin O'Keefe"
+          },
+          {
+            "name": "Lew Jones"
+          },
+          {
+            "name": "Retta Herman"
+          },
+          {
+            "name": "Hailee Swift"
+          },
+          {
+            "name": "Landen Zboncak"
+          },
+          {
+            "name": "Sven Wiegand"
+          },
+          {
+            "name": "Augusta Maggio"
+          },
+          {
+            "name": "Bernard Brakus"
+          },
+          {
+            "name": "Aiyana Howe"
+          },
+          {
+            "name": "Walter Kuhn"
+          },
+          {
+            "name": "Dr. Elissa Klocko"
+          },
+          {
+            "name": "Sheldon Ernser"
+          },
+          {
+            "name": "Brielle Osinski"
+          },
+          {
+            "name": "Shanna Torp"
+          },
+          {
+            "name": "Cheyenne Dietrich"
+          },
+          {
+            "name": "Emanuel Goodwin"
+          },
+          {
+            "name": "Savannah Mosciski"
+          },
+          {
+            "name": "Mr. Darryl Klein"
+          },
+          {
+            "name": "Art Willms"
+          },
+          {
+            "name": "Stanley Schmidt"
+          },
+          {
+            "name": "Jeramy Thiel"
+          },
+          {
+            "name": "Ms. Ansel Zulauf"
+          },
+          {
+            "name": "Fatima Rice MD"
+          },
+          {
+            "name": "Kaitlin Mertz"
+          },
+          {
+            "name": "Emelia Blick III"
+          },
+          {
+            "name": "Paula Spinka"
+          },
+          {
+            "name": "Lexi Lebsack Sr."
+          },
+          {
+            "name": "Francisca Farrell"
+          },
+          {
+            "name": "Sophie Hoppe"
+          },
+          {
+            "name": "Ms. Samara Brakus"
+          },
+          {
+            "name": "Don Heathcote V"
+          },
+          {
+            "name": "Brionna Dach III"
+          },
+          {
+            "name": "Delilah Baumbach"
+          },
+          {
+            "name": "Christian Auer"
+          },
+          {
+            "name": "Columbus Denesik"
+          },
+          {
+            "name": "Nellie Mayert"
+          },
+          {
+            "name": "Juanita Auer"
+          },
+          {
+            "name": "Elsie Morissette"
+          },
+          {
+            "name": "Ms. Dedrick Reilly"
+          },
+          {
+            "name": "Telly Senger"
+          },
+          {
+            "name": "Mr. Palma Rath"
+          },
+          {
+            "name": "Buddy Satterfield"
+          },
+          {
+            "name": "Ryleigh Strosin"
+          },
+          {
+            "name": "Dr. Riley Russel"
+          },
+          {
+            "name": "Audra Reichel"
+          },
+          {
+            "name": "Maymie Gleason"
+          },
+          {
+            "name": "Jeffery Bogisich"
+          },
+          {
+            "name": "Renee Lindgren"
+          },
+          {
+            "name": "Lucas Purdy"
+          },
+          {
+            "name": "Ms. Trever Lebsack"
+          },
+          {
+            "name": "Miss Eliezer VonRueden"
+          },
+          {
+            "name": "Ressie Auer MD"
+          },
+          {
+            "name": "Perry Ullrich"
+          },
+          {
+            "name": "Melisa Leannon"
+          },
+          {
+            "name": "Dayton Willms"
+          },
+          {
+            "name": "Valentin Considine Sr."
+          },
+          {
+            "name": "Rubie Hilpert PhD"
+          },
+          {
+            "name": "Nettie Mayer"
+          },
+          {
+            "name": "Zachariah Christiansen I"
+          },
+          {
+            "name": "Daryl Dickens"
+          },
+          {
+            "name": "Jackson Wyman"
+          }
+        ]
+      },
+      {
+        "name": "Портальные сервисы",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "ППРБ. Процессинг",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "ППРБ.Эквайринг/ЗП",
+        "count": 10,
+        "children": [
+          {
+            "name": "Jaleel Upton"
+          },
+          {
+            "name": "Aliya Kuphal"
+          },
+          {
+            "name": "Justina Wilkinson"
+          },
+          {
+            "name": "Amir Lehner"
+          },
+          {
+            "name": "Ofelia Eichmann DVM"
+          },
+          {
+            "name": "Roberto O'Kon"
+          },
+          {
+            "name": "Christ Wuckert"
+          },
+          {
+            "name": "Ryder Heaney"
+          },
+          {
+            "name": "Eva Williamson"
+          },
+          {
+            "name": "Madelynn Adams"
+          }
+        ]
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 2,
+        "children": [
+          {
+            "name": "Wellington Toy Jr."
+          },
+          {
+            "name": "Felipe Cassin III"
+          }
+        ]
+      },
+      {
+        "name": "Штаб_Соколов Д.Ю.",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Эквайринг и банковские карты (Соколов)",
+        "count": 5,
+        "children": [
+          {
+            "name": "Maeve Farrell"
+          },
+          {
+            "name": "Thalia Renner"
+          },
+          {
+            "name": "Marcelle Mueller"
+          },
+          {
+            "name": "Winona O'Connell"
+          },
+          {
+            "name": "Trent Wiegand V"
+          }
+        ]
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 2,
+        "children": [
+          {
+            "name": "Mrs. Myrl Beier"
+          },
+          {
+            "name": "Hobart Bartell"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Эквайринг. Продукты и процессы",
+    "count": 154,
+    "children": [
+      {
+        "name": "[ACQ] Merchant Acquiring [Product]",
+        "count": 35,
+        "children": [
+          {
+            "name": "Selina Williamson"
+          },
+          {
+            "name": "Adam Wunsch"
+          },
+          {
+            "name": "Sienna Balistreri"
+          },
+          {
+            "name": "Jammie Swift"
+          },
+          {
+            "name": "Oren Wiegand"
+          },
+          {
+            "name": "Chesley Steuber"
+          },
+          {
+            "name": "Gay Schaefer"
+          },
+          {
+            "name": "Erik Graham"
+          },
+          {
+            "name": "Zane Purdy IV"
+          },
+          {
+            "name": "Ernestine Hand"
+          },
+          {
+            "name": "Petra Lubowitz"
+          },
+          {
+            "name": "Jacinto Anderson"
+          },
+          {
+            "name": "Frances Towne Sr."
+          },
+          {
+            "name": "Enid Lind"
+          },
+          {
+            "name": "Valentine Wiegand"
+          },
+          {
+            "name": "Lia VonRueden"
+          },
+          {
+            "name": "Kasandra Becker"
+          },
+          {
+            "name": "Mrs. Jessie Mayert"
+          },
+          {
+            "name": "Gino Murazik"
+          },
+          {
+            "name": "Sigmund Terry"
+          },
+          {
+            "name": "Marquis Cruickshank"
+          },
+          {
+            "name": "Jensen Beier"
+          },
+          {
+            "name": "Keely Rohan"
+          },
+          {
+            "name": "Michaela Lueilwitz"
+          },
+          {
+            "name": "Alexandrea Ryan"
+          },
+          {
+            "name": "Damian Jakubowski"
+          },
+          {
+            "name": "Johann Glover II"
+          },
+          {
+            "name": "Terrence Schiller"
+          },
+          {
+            "name": "Stephanie Douglas"
+          },
+          {
+            "name": "Adela Barton"
+          },
+          {
+            "name": "Jeffrey Turcotte"
+          },
+          {
+            "name": "Lilliana King"
+          },
+          {
+            "name": "Imani Gleason"
+          },
+          {
+            "name": "Gaylord Bednar"
+          },
+          {
+            "name": "Ms. Maegan Wiza"
+          }
+        ]
+      },
+      {
+        "name": "Acquiring_Product_(Offline&Online)",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Acquiring_servises",
+        "count": 1,
+        "children": [
+          {
+            "name": "Howard Gislason"
+          }
+        ]
+      },
+      {
+        "name": "Debit_Cards&Acquiring_Methodology",
+        "count": 2,
+        "children": [
+          {
+            "name": "Dr. Destinee Green"
+          },
+          {
+            "name": "Carlee Greenfelder"
+          }
+        ]
+      },
+      {
+        "name": "Delivery Leads",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Field_sales_management",
+        "count": 11,
+        "children": [
+          {
+            "name": "Dr. Cali Hahn"
+          },
+          {
+            "name": "Milo Brown"
+          },
+          {
+            "name": "Fausto Padberg"
+          },
+          {
+            "name": "Vernie Hilpert"
+          },
+          {
+            "name": "Jermain Schaden"
+          },
+          {
+            "name": "Peter Bartell"
+          },
+          {
+            "name": "Finn Windler V"
+          },
+          {
+            "name": "Mr. Kaylin Rippin"
+          },
+          {
+            "name": "Gillian Murray"
+          },
+          {
+            "name": "Isabella Spencer V"
+          },
+          {
+            "name": "Diego Glover"
+          }
+        ]
+      },
+      {
+        "name": "GR_and_transport_solutions",
+        "count": 1,
+        "children": [
+          {
+            "name": "Agnes Kunze Sr."
+          }
+        ]
+      },
+      {
+        "name": "POS",
+        "count": 38,
+        "children": [
+          {
+            "name": "Jan Rippin"
+          },
+          {
+            "name": "Annamarie Jones"
+          },
+          {
+            "name": "Dr. Gerda Rodriguez"
+          },
+          {
+            "name": "Carlos Greenfelder"
+          },
+          {
+            "name": "Guiseppe Frami"
+          },
+          {
+            "name": "Ana Pollich I"
+          },
+          {
+            "name": "Jayda Turner"
+          },
+          {
+            "name": "Jayden Macejkovic III"
+          },
+          {
+            "name": "Kyleigh Mosciski"
+          },
+          {
+            "name": "Ms. Brett Rohan"
+          },
+          {
+            "name": "Litzy Kassulke II"
+          },
+          {
+            "name": "Will Fritsch"
+          },
+          {
+            "name": "Lea Flatley"
+          },
+          {
+            "name": "Carlos Abshire"
+          },
+          {
+            "name": "Reagan Greenfelder"
+          },
+          {
+            "name": "Dwight Kutch"
+          },
+          {
+            "name": "Bernie Carroll DDS"
+          },
+          {
+            "name": "Grady Schimmel IV"
+          },
+          {
+            "name": "Fleta Kessler"
+          },
+          {
+            "name": "Dr. Ariane Kertzmann"
+          },
+          {
+            "name": "Sherman Cruickshank"
+          },
+          {
+            "name": "Magnus Bayer"
+          },
+          {
+            "name": "Ulises Champlin"
+          },
+          {
+            "name": "Keith Keebler"
+          },
+          {
+            "name": "Kaylin O'Connell"
+          },
+          {
+            "name": "Adelbert Steuber"
+          },
+          {
+            "name": "Evalyn Dare"
+          },
+          {
+            "name": "Dr. Liliane Aufderhar"
+          },
+          {
+            "name": "Simone Wiza Sr."
+          },
+          {
+            "name": "Yvette Lubowitz"
+          },
+          {
+            "name": "Maud Bashirian"
+          },
+          {
+            "name": "Ms. Deangelo McDermott"
+          },
+          {
+            "name": "Vicky Boyer"
+          },
+          {
+            "name": "Brendan Ritchie"
+          },
+          {
+            "name": "Rory Gleason"
+          },
+          {
+            "name": "Vivian Johns"
+          },
+          {
+            "name": "Mrs. Florencio Harber"
+          },
+          {
+            "name": "Geovany Gutmann DDS"
+          }
+        ]
+      },
+      {
+        "name": "Self_service_and_business_process",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "АС Сервисы в ФС/ФП Пластиковые карты",
+        "count": 1,
+        "children": [
+          {
+            "name": "Anabelle Lang"
+          }
+        ]
+      },
+      {
+        "name": "Портальные сервисы",
+        "count": 6,
+        "children": [
+          {
+            "name": "Keira Zemlak IV"
+          },
+          {
+            "name": "Adelbert Pfannerstill"
+          },
+          {
+            "name": "Brenda Brown"
+          },
+          {
+            "name": "Maritza Krajcik"
+          },
+          {
+            "name": "Billy Kertzmann"
+          },
+          {
+            "name": "Javon Will"
+          }
+        ]
+      },
+      {
+        "name": "ППРБ.Эквайринг/ЗП",
+        "count": 17,
+        "children": [
+          {
+            "name": "Malachi Rice"
+          },
+          {
+            "name": "Kylie Tillman"
+          },
+          {
+            "name": "Estevan Berge"
+          },
+          {
+            "name": "Lilian Cronin"
+          },
+          {
+            "name": "Clifton Considine"
+          },
+          {
+            "name": "Nolan Dietrich"
+          },
+          {
+            "name": "Ms. Giles Mraz"
+          },
+          {
+            "name": "Vincenza Feest"
+          },
+          {
+            "name": "Brandi Hansen"
+          },
+          {
+            "name": "Darryl Collins"
+          },
+          {
+            "name": "Dr. Carmella Walsh"
+          },
+          {
+            "name": "Chadd Volkman DDS"
+          },
+          {
+            "name": "Lavinia Hagenes"
+          },
+          {
+            "name": "Ms. Will Deckow"
+          },
+          {
+            "name": "Llewellyn Padberg"
+          },
+          {
+            "name": "Trever Brakus"
+          },
+          {
+            "name": "Kayden Cruickshank"
+          }
+        ]
+      },
+      {
+        "name": "Сервисы для ЮЛ",
+        "count": 19,
+        "children": [
+          {
+            "name": "Arden Schuster"
+          },
+          {
+            "name": "Xzavier Larkin"
+          },
+          {
+            "name": "Joyce Glover"
+          },
+          {
+            "name": "Khalid Weber"
+          },
+          {
+            "name": "Abner Schinner"
+          },
+          {
+            "name": "Percival Runolfsson"
+          },
+          {
+            "name": "Chester Tremblay"
+          },
+          {
+            "name": "Dillan Ankunding"
+          },
+          {
+            "name": "Naomie Ritchie DDS"
+          },
+          {
+            "name": "Isadore Olson"
+          },
+          {
+            "name": "Olin Rath"
+          },
+          {
+            "name": "Clifton Oberbrunner"
+          },
+          {
+            "name": "Shawn Schoen"
+          },
+          {
+            "name": "Hudson Jenkins"
+          },
+          {
+            "name": "Alford Wiza"
+          },
+          {
+            "name": "Armand Greenfelder"
+          },
+          {
+            "name": "Mozelle Frami"
+          },
+          {
+            "name": "Napoleon Boehm"
+          },
+          {
+            "name": "Lauren Fisher"
+          }
+        ]
+      },
+      {
+        "name": "Удаленные каналы обслуживания",
+        "count": 20,
+        "children": [
+          {
+            "name": "Ernest Blanda"
+          },
+          {
+            "name": "Korey Howell"
+          },
+          {
+            "name": "Jameson Powlowski"
+          },
+          {
+            "name": "Twila Leannon"
+          },
+          {
+            "name": "Mrs. Jordi Johnston"
+          },
+          {
+            "name": "Conrad Armstrong II"
+          },
+          {
+            "name": "Marilyne Turner"
+          },
+          {
+            "name": "Libbie Crist"
+          },
+          {
+            "name": "Malinda Gerlach III"
+          },
+          {
+            "name": "Cleta West Jr."
+          },
+          {
+            "name": "Bernhard Eichmann"
+          },
+          {
+            "name": "Annalise Kessler"
+          },
+          {
+            "name": "Immanuel Rutherford IV"
+          },
+          {
+            "name": "Ephraim Douglas"
+          },
+          {
+            "name": "Dianna Legros"
+          },
+          {
+            "name": "Keith Pacocha"
+          },
+          {
+            "name": "Drake Daugherty"
+          },
+          {
+            "name": "Dr. Tamara Walker"
+          },
+          {
+            "name": "Joseph Gutkowski"
+          },
+          {
+            "name": "Mrs. Henri Bergstrom"
+          }
+        ]
+      },
+      {
+        "name": "Эквайринг и банковские карты (Соколов)",
+        "count": 1,
+        "children": [
+          {
+            "name": "Jamel Tromp"
+          }
+        ]
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 2,
+        "children": [
+          {
+            "name": "Laurianne Considine DVM"
+          },
+          {
+            "name": "Laverna Trantow"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Не присвоено Кластеру",
+    "count": 20,
+    "children": [
+      {
+        "name": "[ACQ] Merchant Acquiring [Product]",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "[RUN] CTO Card Solutions",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "[RUN] Division management",
+        "count": 2,
+        "children": [
+          {
+            "name": "Chadd Harvey"
+          },
+          {
+            "name": "Emmalee Jones I"
+          }
+        ]
+      },
+      {
+        "name": "Acquiring_servises",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Debit_Cards_Product",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Debit_Cards_Services",
+        "count": 2,
+        "children": [
+          {
+            "name": "Jennifer Koch"
+          },
+          {
+            "name": "Abigayle Koepp"
+          }
+        ]
+      },
+      {
+        "name": "PMO-РБ",
+        "count": 1,
+        "children": [
+          {
+            "name": "Corene Terry MD"
+          }
+        ]
+      },
+      {
+        "name": "Администрирование тестовых сред",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Комп. Див Эквайринг и банк. карты",
+        "count": 13,
+        "children": [
+          {
+            "name": "Bianka Cartwright"
+          },
+          {
+            "name": "Obie Brown"
+          },
+          {
+            "name": "Mrs. Enos Mitchell"
+          },
+          {
+            "name": "Blaze Wilderman"
+          },
+          {
+            "name": "Kendrick Jenkins"
+          },
+          {
+            "name": "Belle Wuckert"
+          },
+          {
+            "name": "Ceasar Zieme"
+          },
+          {
+            "name": "Shanny Wiza"
+          },
+          {
+            "name": "Rod Kirlin"
+          },
+          {
+            "name": "Lurline Kuhn"
+          },
+          {
+            "name": "Antoinette Emard"
+          },
+          {
+            "name": "Mr. Alexandria Mohr"
+          },
+          {
+            "name": "Erna Breitenberg"
+          }
+        ]
+      },
+      {
+        "name": "Неразмеченные Рокотян",
+        "count": 0,
+        "children": []
+      },
+      {
+        "name": "Эквайринг и банковские карты (Соколов)",
+        "count": 1,
+        "children": [
+          {
+            "name": "Alanis Treutel"
+          }
+        ]
+      },
+      {
+        "name": "Эквайринг и банковские карты (Соколов)",
+        "count": 1,
+        "children": [
+          {
+            "name": "Billy Reinger"
+          }
+        ]
+      },
+      {
+        "name": "Не присвоено Чаптеру",
+        "count": 0,
+        "children": []
+      }
+    ]
+  }
+]
